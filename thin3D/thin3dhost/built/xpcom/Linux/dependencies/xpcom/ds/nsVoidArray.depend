@@ -1,0 +1,5 @@
+../built/xpcom/Linux/xpcom/ds/nsVoidArray.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsVoidArray.depend: xpcom/ds/nsCRT.h
+../built/xpcom/Linux/xpcom/ds/nsVoidArray.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsVoidArray.depend: xpcom/ds/nsCppSharedAllocator.h
+../built/xpcom/Linux/xpcom/ds/nsVoidArray.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsVoidArray.depend: xpcom/ds/nsVoidArray.cpp
+../built/xpcom/Linux/xpcom/ds/nsVoidArray.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsVoidArray.depend: xpcom/ds/nsVoidArray.h
+../built/xpcom/Linux/xpcom/ds/nsVoidArray.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsVoidArray.depend: xpcom/ds/nsQuickSort.h

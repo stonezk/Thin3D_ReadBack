@@ -1,0 +1,4 @@
+../built/xpcom/Linux/xpcom/build/nsXPComInit.o ../built/xpcom/Linux/dependencies/xpcom/build/nsXPComInit.depend: xpcom/build/nsXPCOM.h
+../built/xpcom/Linux/xpcom/build/nsXPComInit.o ../built/xpcom/Linux/dependencies/xpcom/build/nsXPComInit.depend: xpcom/build/nsXPComInit.cpp
+../built/xpcom/Linux/xpcom/build/nsXPComInit.o ../built/xpcom/Linux/dependencies/xpcom/build/nsXPComInit.depend: xpcom/build/nsXPCOMPrivate.h
+../built/xpcom/Linux/xpcom/build/nsXPComInit.o ../built/xpcom/Linux/dependencies/xpcom/build/nsXPComInit.depend: xpcom/build/nsXPCOMCID.h

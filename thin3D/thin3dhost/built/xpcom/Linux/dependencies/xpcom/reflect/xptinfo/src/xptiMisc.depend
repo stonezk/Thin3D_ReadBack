@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/reflect/xptinfo/src/xptiMisc.o ../built/xpcom/Linux/dependencies/xpcom/reflect/xptinfo/src/xptiMisc.depend: xpcom/reflect/xptinfo/src/xptiMisc.cpp
+../built/xpcom/Linux/xpcom/reflect/xptinfo/src/xptiMisc.o ../built/xpcom/Linux/dependencies/xpcom/reflect/xptinfo/src/xptiMisc.depend: xpcom/reflect/xptinfo/src/xptiprivate.h

@@ -1,0 +1,10 @@
+../built/xpcom/Linux/xpcom/ds/pldhash.o ../built/xpcom/Linux/dependencies/xpcom/ds/pldhash.depend: xpcom/ds/pldhash.c
+../built/xpcom/Linux/xpcom/ds/pldhash.o ../built/xpcom/Linux/dependencies/xpcom/ds/pldhash.depend: ../include/iprt/mem.h
+../built/xpcom/Linux/xpcom/ds/pldhash.o ../built/xpcom/Linux/dependencies/xpcom/ds/pldhash.depend: ../include/iprt/stdint.h
+../built/xpcom/Linux/xpcom/ds/pldhash.o ../built/xpcom/Linux/dependencies/xpcom/ds/pldhash.depend: xpcom/ds/pldhash.h
+../built/xpcom/Linux/xpcom/ds/pldhash.o ../built/xpcom/Linux/dependencies/xpcom/ds/pldhash.depend: ../include/iprt/cdefs.h
+../built/xpcom/Linux/xpcom/ds/pldhash.o ../built/xpcom/Linux/dependencies/xpcom/ds/pldhash.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/xpcom/Linux/xpcom/ds/pldhash.o ../built/xpcom/Linux/dependencies/xpcom/ds/pldhash.depend: ../include/iprt/stdarg.h
+../built/xpcom/Linux/xpcom/ds/pldhash.o ../built/xpcom/Linux/dependencies/xpcom/ds/pldhash.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/xpcom/Linux/xpcom/ds/pldhash.o ../built/xpcom/Linux/dependencies/xpcom/ds/pldhash.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/xpcom/Linux/xpcom/ds/pldhash.o ../built/xpcom/Linux/dependencies/xpcom/ds/pldhash.depend: ../include/iprt/types.h

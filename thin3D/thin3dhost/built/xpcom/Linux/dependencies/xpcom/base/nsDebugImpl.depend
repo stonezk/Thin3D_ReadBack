@@ -1,0 +1,4 @@
+../built/xpcom/Linux/xpcom/base/nsDebugImpl.o ../built/xpcom/Linux/dependencies/xpcom/base/nsDebugImpl.depend: xpcom/base/nsTraceRefcntImpl.h
+../built/xpcom/Linux/xpcom/base/nsDebugImpl.o ../built/xpcom/Linux/dependencies/xpcom/base/nsDebugImpl.depend: xpcom/base/nsError.h
+../built/xpcom/Linux/xpcom/base/nsDebugImpl.o ../built/xpcom/Linux/dependencies/xpcom/base/nsDebugImpl.depend: xpcom/base/nsDebugImpl.h
+../built/xpcom/Linux/xpcom/base/nsDebugImpl.o ../built/xpcom/Linux/dependencies/xpcom/base/nsDebugImpl.depend: xpcom/base/nsDebugImpl.cpp

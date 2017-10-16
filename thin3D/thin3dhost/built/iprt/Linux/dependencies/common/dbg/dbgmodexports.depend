@@ -1,0 +1,17 @@
+../built/iprt/Linux/common/dbg/dbgmodexports.o ../built/iprt/Linux/dependencies/common/dbg/dbgmodexports.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/dbg/dbgmodexports.o ../built/iprt/Linux/dependencies/common/dbg/dbgmodexports.depend: ../include/iprt/ldr.h
+../built/iprt/Linux/common/dbg/dbgmodexports.o ../built/iprt/Linux/dependencies/common/dbg/dbgmodexports.depend: ../include/iprt/err.h
+../built/iprt/Linux/common/dbg/dbgmodexports.o ../built/iprt/Linux/dependencies/common/dbg/dbgmodexports.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/dbg/dbgmodexports.o ../built/iprt/Linux/dependencies/common/dbg/dbgmodexports.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/dbg/dbgmodexports.o ../built/iprt/Linux/dependencies/common/dbg/dbgmodexports.depend: ../include/iprt/dbg.h
+../built/iprt/Linux/common/dbg/dbgmodexports.o ../built/iprt/Linux/dependencies/common/dbg/dbgmodexports.depend: ../include/iprt/alloca.h
+../built/iprt/Linux/common/dbg/dbgmodexports.o ../built/iprt/Linux/dependencies/common/dbg/dbgmodexports.depend: ../include/iprt/log.h
+../built/iprt/Linux/common/dbg/dbgmodexports.o ../built/iprt/Linux/dependencies/common/dbg/dbgmodexports.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/dbg/dbgmodexports.o ../built/iprt/Linux/dependencies/common/dbg/dbgmodexports.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/dbg/dbgmodexports.o ../built/iprt/Linux/dependencies/common/dbg/dbgmodexports.depend: common/dbg/dbgmodexports.cpp
+../built/iprt/Linux/common/dbg/dbgmodexports.o ../built/iprt/Linux/dependencies/common/dbg/dbgmodexports.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/dbg/dbgmodexports.o ../built/iprt/Linux/dependencies/common/dbg/dbgmodexports.depend: ../include/iprt/latin1.h
+../built/iprt/Linux/common/dbg/dbgmodexports.o ../built/iprt/Linux/dependencies/common/dbg/dbgmodexports.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/dbg/dbgmodexports.o ../built/iprt/Linux/dependencies/common/dbg/dbgmodexports.depend: ../include/iprt/string.h
+../built/iprt/Linux/common/dbg/dbgmodexports.o ../built/iprt/Linux/dependencies/common/dbg/dbgmodexports.depend: ../include/iprt/utf16.h
+../built/iprt/Linux/common/dbg/dbgmodexports.o ../built/iprt/Linux/dependencies/common/dbg/dbgmodexports.depend: ../include/iprt/types.h

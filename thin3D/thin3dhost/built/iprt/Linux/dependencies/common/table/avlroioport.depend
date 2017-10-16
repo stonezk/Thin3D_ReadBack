@@ -1,0 +1,16 @@
+../built/iprt/Linux/common/table/avlroioport.o ../built/iprt/Linux/dependencies/common/table/avlroioport.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/table/avlroioport.o ../built/iprt/Linux/dependencies/common/table/avlroioport.depend: ../include/iprt/err.h
+../built/iprt/Linux/common/table/avlroioport.o ../built/iprt/Linux/dependencies/common/table/avlroioport.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/table/avlroioport.o ../built/iprt/Linux/dependencies/common/table/avlroioport.depend: ../include/iprt/avl.h
+../built/iprt/Linux/common/table/avlroioport.o ../built/iprt/Linux/dependencies/common/table/avlroioport.depend: common/table/avl_Range.cpp.h
+../built/iprt/Linux/common/table/avlroioport.o ../built/iprt/Linux/dependencies/common/table/avlroioport.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/table/avlroioport.o ../built/iprt/Linux/dependencies/common/table/avlroioport.depend: common/table/avl_Destroy.cpp.h
+../built/iprt/Linux/common/table/avlroioport.o ../built/iprt/Linux/dependencies/common/table/avlroioport.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/table/avlroioport.o ../built/iprt/Linux/dependencies/common/table/avlroioport.depend: common/table/avl_Base.cpp.h
+../built/iprt/Linux/common/table/avlroioport.o ../built/iprt/Linux/dependencies/common/table/avlroioport.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/table/avlroioport.o ../built/iprt/Linux/dependencies/common/table/avlroioport.depend: common/table/avl_DoWithAll.cpp.h
+../built/iprt/Linux/common/table/avlroioport.o ../built/iprt/Linux/dependencies/common/table/avlroioport.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/table/avlroioport.o ../built/iprt/Linux/dependencies/common/table/avlroioport.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/table/avlroioport.o ../built/iprt/Linux/dependencies/common/table/avlroioport.depend: common/table/avl_Get.cpp.h
+../built/iprt/Linux/common/table/avlroioport.o ../built/iprt/Linux/dependencies/common/table/avlroioport.depend: common/table/avlroioport.cpp
+../built/iprt/Linux/common/table/avlroioport.o ../built/iprt/Linux/dependencies/common/table/avlroioport.depend: ../include/iprt/types.h

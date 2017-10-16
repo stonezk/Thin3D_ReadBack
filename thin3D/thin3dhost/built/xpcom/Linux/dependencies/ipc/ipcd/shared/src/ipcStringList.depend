@@ -1,0 +1,3 @@
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcStringList.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcStringList.depend: ipc/ipcd/shared/src/ipcStringList.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcStringList.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcStringList.depend: ipc/ipcd/shared/src/ipcList.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcStringList.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcStringList.depend: ipc/ipcd/shared/src/ipcStringList.cpp

@@ -1,0 +1,1 @@
+../built/xpcom/Linux/nsprpub/lib/libc/src/strchr.o ../built/xpcom/Linux/dependencies/nsprpub/lib/libc/src/strchr.depend: nsprpub/lib/libc/src/strchr.c

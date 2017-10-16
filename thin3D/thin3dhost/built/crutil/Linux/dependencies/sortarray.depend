@@ -1,0 +1,13 @@
+../built/crutil/Linux/sortarray.o ../built/crutil/Linux/dependencies/sortarray.depend: ../include/iprt/assert.h
+../built/crutil/Linux/sortarray.o ../built/crutil/Linux/dependencies/sortarray.depend: ../include/iprt/err.h
+../built/crutil/Linux/sortarray.o ../built/crutil/Linux/dependencies/sortarray.depend: ../include/iprt/stdarg.h
+../built/crutil/Linux/sortarray.o ../built/crutil/Linux/dependencies/sortarray.depend: ../include/iprt/mem.h
+../built/crutil/Linux/sortarray.o ../built/crutil/Linux/dependencies/sortarray.depend: ../include/iprt/stdint.h
+../built/crutil/Linux/sortarray.o ../built/crutil/Linux/dependencies/sortarray.depend: ../include/cr_sortarray.h
+../built/crutil/Linux/sortarray.o ../built/crutil/Linux/dependencies/sortarray.depend: ../include/iprt/cdefs.h
+../built/crutil/Linux/sortarray.o ../built/crutil/Linux/dependencies/sortarray.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/crutil/Linux/sortarray.o ../built/crutil/Linux/dependencies/sortarray.depend: sortarray.cpp
+../built/crutil/Linux/sortarray.o ../built/crutil/Linux/dependencies/sortarray.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/crutil/Linux/sortarray.o ../built/crutil/Linux/dependencies/sortarray.depend: ../include/cr_error.h
+../built/crutil/Linux/sortarray.o ../built/crutil/Linux/dependencies/sortarray.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/crutil/Linux/sortarray.o ../built/crutil/Linux/dependencies/sortarray.depend: ../include/iprt/types.h

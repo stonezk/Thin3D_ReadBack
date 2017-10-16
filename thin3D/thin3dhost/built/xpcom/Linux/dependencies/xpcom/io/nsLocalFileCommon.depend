@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/io/nsLocalFileCommon.o ../built/xpcom/Linux/dependencies/xpcom/io/nsLocalFileCommon.depend: xpcom/io/nsLocalFileUnicode.h
+../built/xpcom/Linux/xpcom/io/nsLocalFileCommon.o ../built/xpcom/Linux/dependencies/xpcom/io/nsLocalFileCommon.depend: xpcom/io/nsLocalFileCommon.cpp

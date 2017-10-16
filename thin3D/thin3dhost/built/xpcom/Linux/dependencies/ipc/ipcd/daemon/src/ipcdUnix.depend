@@ -1,0 +1,13 @@
+../built/xpcom/Linux/ipc/ipcd/daemon/src/ipcdUnix.o ../built/xpcom/Linux/dependencies/ipc/ipcd/daemon/src/ipcdUnix.depend: ../include/iprt/stdarg.h
+../built/xpcom/Linux/ipc/ipcd/daemon/src/ipcdUnix.o ../built/xpcom/Linux/dependencies/ipc/ipcd/daemon/src/ipcdUnix.depend: ipc/ipcd/daemon/src/ipcd.h
+../built/xpcom/Linux/ipc/ipcd/daemon/src/ipcdUnix.o ../built/xpcom/Linux/dependencies/ipc/ipcd/daemon/src/ipcdUnix.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/xpcom/Linux/ipc/ipcd/daemon/src/ipcdUnix.o ../built/xpcom/Linux/dependencies/ipc/ipcd/daemon/src/ipcdUnix.depend: ../include/iprt/stdint.h
+../built/xpcom/Linux/ipc/ipcd/daemon/src/ipcdUnix.o ../built/xpcom/Linux/dependencies/ipc/ipcd/daemon/src/ipcdUnix.depend: ipc/ipcd/daemon/src/ipcClient.h
+../built/xpcom/Linux/ipc/ipcd/daemon/src/ipcdUnix.o ../built/xpcom/Linux/dependencies/ipc/ipcd/daemon/src/ipcdUnix.depend: ipc/ipcd/daemon/src/ipcModuleReg.h
+../built/xpcom/Linux/ipc/ipcd/daemon/src/ipcdUnix.o ../built/xpcom/Linux/dependencies/ipc/ipcd/daemon/src/ipcdUnix.depend: ../include/iprt/cdefs.h
+../built/xpcom/Linux/ipc/ipcd/daemon/src/ipcdUnix.o ../built/xpcom/Linux/dependencies/ipc/ipcd/daemon/src/ipcdUnix.depend: ipc/ipcd/daemon/src/ipcdUnix.cpp
+../built/xpcom/Linux/ipc/ipcd/daemon/src/ipcdUnix.o ../built/xpcom/Linux/dependencies/ipc/ipcd/daemon/src/ipcdUnix.depend: ../include/iprt/initterm.h
+../built/xpcom/Linux/ipc/ipcd/daemon/src/ipcdUnix.o ../built/xpcom/Linux/dependencies/ipc/ipcd/daemon/src/ipcdUnix.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/xpcom/Linux/ipc/ipcd/daemon/src/ipcdUnix.o ../built/xpcom/Linux/dependencies/ipc/ipcd/daemon/src/ipcdUnix.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/xpcom/Linux/ipc/ipcd/daemon/src/ipcdUnix.o ../built/xpcom/Linux/dependencies/ipc/ipcd/daemon/src/ipcdUnix.depend: ipc/ipcd/daemon/src/ipcdPrivate.h
+../built/xpcom/Linux/ipc/ipcd/daemon/src/ipcdUnix.o ../built/xpcom/Linux/dependencies/ipc/ipcd/daemon/src/ipcdUnix.depend: ../include/iprt/types.h

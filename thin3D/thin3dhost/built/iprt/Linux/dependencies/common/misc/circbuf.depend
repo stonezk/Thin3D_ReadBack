@@ -1,0 +1,13 @@
+../built/iprt/Linux/common/misc/circbuf.o ../built/iprt/Linux/dependencies/common/misc/circbuf.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/misc/circbuf.o ../built/iprt/Linux/dependencies/common/misc/circbuf.depend: common/misc/circbuf.cpp
+../built/iprt/Linux/common/misc/circbuf.o ../built/iprt/Linux/dependencies/common/misc/circbuf.depend: ../include/iprt/err.h
+../built/iprt/Linux/common/misc/circbuf.o ../built/iprt/Linux/dependencies/common/misc/circbuf.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/misc/circbuf.o ../built/iprt/Linux/dependencies/common/misc/circbuf.depend: ../include/iprt/mem.h
+../built/iprt/Linux/common/misc/circbuf.o ../built/iprt/Linux/dependencies/common/misc/circbuf.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/misc/circbuf.o ../built/iprt/Linux/dependencies/common/misc/circbuf.depend: ../include/iprt/asm.h
+../built/iprt/Linux/common/misc/circbuf.o ../built/iprt/Linux/dependencies/common/misc/circbuf.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/misc/circbuf.o ../built/iprt/Linux/dependencies/common/misc/circbuf.depend: ../include/iprt/circbuf.h
+../built/iprt/Linux/common/misc/circbuf.o ../built/iprt/Linux/dependencies/common/misc/circbuf.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/misc/circbuf.o ../built/iprt/Linux/dependencies/common/misc/circbuf.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/misc/circbuf.o ../built/iprt/Linux/dependencies/common/misc/circbuf.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/misc/circbuf.o ../built/iprt/Linux/dependencies/common/misc/circbuf.depend: ../include/iprt/types.h

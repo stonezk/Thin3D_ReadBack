@@ -1,0 +1,7 @@
+../built/xpcom/Linux/xpcom/components/nsServiceManagerObsolete.o ../built/xpcom/Linux/dependencies/xpcom/components/nsServiceManagerObsolete.depend: xpcom/components/xcDll.h
+../built/xpcom/Linux/xpcom/components/nsServiceManagerObsolete.o ../built/xpcom/Linux/dependencies/xpcom/components/nsServiceManagerObsolete.depend: xpcom/components/nsCategoryManager.h
+../built/xpcom/Linux/xpcom/components/nsServiceManagerObsolete.o ../built/xpcom/Linux/dependencies/xpcom/components/nsServiceManagerObsolete.depend: xpcom/components/nsNativeComponentLoader.h
+../built/xpcom/Linux/xpcom/components/nsServiceManagerObsolete.o ../built/xpcom/Linux/dependencies/xpcom/components/nsServiceManagerObsolete.depend: ./xpcom-private.h
+../built/xpcom/Linux/xpcom/components/nsServiceManagerObsolete.o ../built/xpcom/Linux/dependencies/xpcom/components/nsServiceManagerObsolete.depend: xpcom/components/nsIServiceManagerObsolete.h
+../built/xpcom/Linux/xpcom/components/nsServiceManagerObsolete.o ../built/xpcom/Linux/dependencies/xpcom/components/nsServiceManagerObsolete.depend: xpcom/components/nsComponentManager.h
+../built/xpcom/Linux/xpcom/components/nsServiceManagerObsolete.o ../built/xpcom/Linux/dependencies/xpcom/components/nsServiceManagerObsolete.depend: xpcom/components/nsServiceManagerObsolete.cpp

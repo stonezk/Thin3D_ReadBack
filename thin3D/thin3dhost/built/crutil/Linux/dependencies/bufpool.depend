@@ -1,0 +1,12 @@
+../built/crutil/Linux/bufpool.o ../built/crutil/Linux/dependencies/bufpool.depend: ../include/iprt/assert.h
+../built/crutil/Linux/bufpool.o ../built/crutil/Linux/dependencies/bufpool.depend: ../include/iprt/stdarg.h
+../built/crutil/Linux/bufpool.o ../built/crutil/Linux/dependencies/bufpool.depend: ../include/cr_bufpool.h
+../built/crutil/Linux/bufpool.o ../built/crutil/Linux/dependencies/bufpool.depend: ../include/iprt/stdint.h
+../built/crutil/Linux/bufpool.o ../built/crutil/Linux/dependencies/bufpool.depend: ../include/iprt/cdefs.h
+../built/crutil/Linux/bufpool.o ../built/crutil/Linux/dependencies/bufpool.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/crutil/Linux/bufpool.o ../built/crutil/Linux/dependencies/bufpool.depend: bufpool.c
+../built/crutil/Linux/bufpool.o ../built/crutil/Linux/dependencies/bufpool.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/crutil/Linux/bufpool.o ../built/crutil/Linux/dependencies/bufpool.depend: ../include/cr_error.h
+../built/crutil/Linux/bufpool.o ../built/crutil/Linux/dependencies/bufpool.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/crutil/Linux/bufpool.o ../built/crutil/Linux/dependencies/bufpool.depend: ../include/cr_mem.h
+../built/crutil/Linux/bufpool.o ../built/crutil/Linux/dependencies/bufpool.depend: ../include/iprt/types.h

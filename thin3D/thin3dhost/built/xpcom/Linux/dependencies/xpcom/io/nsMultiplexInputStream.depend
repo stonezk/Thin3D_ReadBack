@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/io/nsMultiplexInputStream.o ../built/xpcom/Linux/dependencies/xpcom/io/nsMultiplexInputStream.depend: xpcom/io/nsMultiplexInputStream.cpp
+../built/xpcom/Linux/xpcom/io/nsMultiplexInputStream.o ../built/xpcom/Linux/dependencies/xpcom/io/nsMultiplexInputStream.depend: xpcom/io/nsMultiplexInputStream.h

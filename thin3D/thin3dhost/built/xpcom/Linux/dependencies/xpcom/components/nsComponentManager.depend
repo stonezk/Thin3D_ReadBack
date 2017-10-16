@@ -1,0 +1,8 @@
+../built/xpcom/Linux/xpcom/components/nsComponentManager.o ../built/xpcom/Linux/dependencies/xpcom/components/nsComponentManager.depend: xpcom/components/xcDll.h
+../built/xpcom/Linux/xpcom/components/nsComponentManager.o ../built/xpcom/Linux/dependencies/xpcom/components/nsComponentManager.depend: xpcom/components/nsCategoryManager.h
+../built/xpcom/Linux/xpcom/components/nsComponentManager.o ../built/xpcom/Linux/dependencies/xpcom/components/nsComponentManager.depend: xpcom/components/nsCategoryManagerUtils.h
+../built/xpcom/Linux/xpcom/components/nsComponentManager.o ../built/xpcom/Linux/dependencies/xpcom/components/nsComponentManager.depend: xpcom/components/nsNativeComponentLoader.h
+../built/xpcom/Linux/xpcom/components/nsComponentManager.o ../built/xpcom/Linux/dependencies/xpcom/components/nsComponentManager.depend: ./xpcom-private.h
+../built/xpcom/Linux/xpcom/components/nsComponentManager.o ../built/xpcom/Linux/dependencies/xpcom/components/nsComponentManager.depend: xpcom/components/nsComponentManager.cpp
+../built/xpcom/Linux/xpcom/components/nsComponentManager.o ../built/xpcom/Linux/dependencies/xpcom/components/nsComponentManager.depend: xpcom/components/nsComponentManager.h
+../built/xpcom/Linux/xpcom/components/nsComponentManager.o ../built/xpcom/Linux/dependencies/xpcom/components/nsComponentManager.depend: xpcom/components/nsComponentManagerObsolete.h

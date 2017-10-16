@@ -1,0 +1,17 @@
+../built/iprt/Linux/common/alloc/heapsimple.o ../built/iprt/Linux/dependencies/common/alloc/heapsimple.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/alloc/heapsimple.o ../built/iprt/Linux/dependencies/common/alloc/heapsimple.depend: ../include/iprt/err.h
+../built/iprt/Linux/common/alloc/heapsimple.o ../built/iprt/Linux/dependencies/common/alloc/heapsimple.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/alloc/heapsimple.o ../built/iprt/Linux/dependencies/common/alloc/heapsimple.depend: ../include/iprt/param.h
+../built/iprt/Linux/common/alloc/heapsimple.o ../built/iprt/Linux/dependencies/common/alloc/heapsimple.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/alloc/heapsimple.o ../built/iprt/Linux/dependencies/common/alloc/heapsimple.depend: common/alloc/heapsimple.cpp
+../built/iprt/Linux/common/alloc/heapsimple.o ../built/iprt/Linux/dependencies/common/alloc/heapsimple.depend: ../include/iprt/log.h
+../built/iprt/Linux/common/alloc/heapsimple.o ../built/iprt/Linux/dependencies/common/alloc/heapsimple.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/alloc/heapsimple.o ../built/iprt/Linux/dependencies/common/alloc/heapsimple.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/alloc/heapsimple.o ../built/iprt/Linux/dependencies/common/alloc/heapsimple.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/alloc/heapsimple.o ../built/iprt/Linux/dependencies/common/alloc/heapsimple.depend: ../include/iprt/latin1.h
+../built/iprt/Linux/common/alloc/heapsimple.o ../built/iprt/Linux/dependencies/common/alloc/heapsimple.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/alloc/heapsimple.o ../built/iprt/Linux/dependencies/common/alloc/heapsimple.depend: ../include/iprt/string.h
+../built/iprt/Linux/common/alloc/heapsimple.o ../built/iprt/Linux/dependencies/common/alloc/heapsimple.depend: ../include/iprt/utf16.h
+../built/iprt/Linux/common/alloc/heapsimple.o ../built/iprt/Linux/dependencies/common/alloc/heapsimple.depend: ../include/iprt/heap.h
+../built/iprt/Linux/common/alloc/heapsimple.o ../built/iprt/Linux/dependencies/common/alloc/heapsimple.depend: ../include/iprt/asm.h
+../built/iprt/Linux/common/alloc/heapsimple.o ../built/iprt/Linux/dependencies/common/alloc/heapsimple.depend: ../include/iprt/types.h

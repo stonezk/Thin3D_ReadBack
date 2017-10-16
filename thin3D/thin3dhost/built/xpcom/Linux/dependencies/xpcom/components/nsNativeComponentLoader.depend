@@ -1,0 +1,6 @@
+../built/xpcom/Linux/xpcom/components/nsNativeComponentLoader.o ../built/xpcom/Linux/dependencies/xpcom/components/nsNativeComponentLoader.depend: xpcom/components/xcDll.h
+../built/xpcom/Linux/xpcom/components/nsNativeComponentLoader.o ../built/xpcom/Linux/dependencies/xpcom/components/nsNativeComponentLoader.depend: xpcom/components/nsCategoryManager.h
+../built/xpcom/Linux/xpcom/components/nsNativeComponentLoader.o ../built/xpcom/Linux/dependencies/xpcom/components/nsNativeComponentLoader.depend: xpcom/components/nsNativeComponentLoader.h
+../built/xpcom/Linux/xpcom/components/nsNativeComponentLoader.o ../built/xpcom/Linux/dependencies/xpcom/components/nsNativeComponentLoader.depend: ./xpcom-private.h
+../built/xpcom/Linux/xpcom/components/nsNativeComponentLoader.o ../built/xpcom/Linux/dependencies/xpcom/components/nsNativeComponentLoader.depend: xpcom/components/nsNativeComponentLoader.cpp
+../built/xpcom/Linux/xpcom/components/nsNativeComponentLoader.o ../built/xpcom/Linux/dependencies/xpcom/components/nsNativeComponentLoader.depend: xpcom/components/nsComponentManager.h

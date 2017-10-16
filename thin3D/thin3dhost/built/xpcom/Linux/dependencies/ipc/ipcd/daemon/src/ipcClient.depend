@@ -1,0 +1,4 @@
+../built/xpcom/Linux/ipc/ipcd/daemon/src/ipcClient.o ../built/xpcom/Linux/dependencies/ipc/ipcd/daemon/src/ipcClient.depend: ipc/ipcd/daemon/src/ipcClient.h
+../built/xpcom/Linux/ipc/ipcd/daemon/src/ipcClient.o ../built/xpcom/Linux/dependencies/ipc/ipcd/daemon/src/ipcClient.depend: ipc/ipcd/daemon/src/ipcModuleReg.h
+../built/xpcom/Linux/ipc/ipcd/daemon/src/ipcClient.o ../built/xpcom/Linux/dependencies/ipc/ipcd/daemon/src/ipcClient.depend: ipc/ipcd/daemon/src/ipcd.h
+../built/xpcom/Linux/ipc/ipcd/daemon/src/ipcClient.o ../built/xpcom/Linux/dependencies/ipc/ipcd/daemon/src/ipcClient.depend: ipc/ipcd/daemon/src/ipcClient.cpp

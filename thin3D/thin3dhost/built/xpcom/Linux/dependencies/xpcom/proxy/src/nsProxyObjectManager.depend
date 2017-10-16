@@ -1,0 +1,3 @@
+../built/xpcom/Linux/xpcom/proxy/src/nsProxyObjectManager.o ../built/xpcom/Linux/dependencies/xpcom/proxy/src/nsProxyObjectManager.depend: xpcom/proxy/src/nsIProxyCreateInstance.h
+../built/xpcom/Linux/xpcom/proxy/src/nsProxyObjectManager.o ../built/xpcom/Linux/dependencies/xpcom/proxy/src/nsProxyObjectManager.depend: xpcom/proxy/src/nsProxyObjectManager.cpp
+../built/xpcom/Linux/xpcom/proxy/src/nsProxyObjectManager.o ../built/xpcom/Linux/dependencies/xpcom/proxy/src/nsProxyObjectManager.depend: xpcom/proxy/src/nsProxyEventPrivate.h

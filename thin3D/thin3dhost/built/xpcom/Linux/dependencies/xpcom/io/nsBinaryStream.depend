@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/io/nsBinaryStream.o ../built/xpcom/Linux/dependencies/xpcom/io/nsBinaryStream.depend: xpcom/io/nsBinaryStream.h
+../built/xpcom/Linux/xpcom/io/nsBinaryStream.o ../built/xpcom/Linux/dependencies/xpcom/io/nsBinaryStream.depend: xpcom/io/nsBinaryStream.cpp

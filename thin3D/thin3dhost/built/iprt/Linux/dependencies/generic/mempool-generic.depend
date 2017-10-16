@@ -1,0 +1,17 @@
+../built/iprt/Linux/generic/mempool-generic.o ../built/iprt/Linux/dependencies/generic/mempool-generic.depend: ../include/iprt/assert.h
+../built/iprt/Linux/generic/mempool-generic.o ../built/iprt/Linux/dependencies/generic/mempool-generic.depend: ../include/iprt/err.h
+../built/iprt/Linux/generic/mempool-generic.o ../built/iprt/Linux/dependencies/generic/mempool-generic.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/generic/mempool-generic.o ../built/iprt/Linux/dependencies/generic/mempool-generic.depend: ../include/iprt/mem.h
+../built/iprt/Linux/generic/mempool-generic.o ../built/iprt/Linux/dependencies/generic/mempool-generic.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/generic/mempool-generic.o ../built/iprt/Linux/dependencies/generic/mempool-generic.depend: ../include/iprt/asm.h
+../built/iprt/Linux/generic/mempool-generic.o ../built/iprt/Linux/dependencies/generic/mempool-generic.depend: ../include/iprt/mempool.h
+../built/iprt/Linux/generic/mempool-generic.o ../built/iprt/Linux/dependencies/generic/mempool-generic.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/generic/mempool-generic.o ../built/iprt/Linux/dependencies/generic/mempool-generic.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/generic/mempool-generic.o ../built/iprt/Linux/dependencies/generic/mempool-generic.depend: ../include/iprt/spinlock.h
+../built/iprt/Linux/generic/mempool-generic.o ../built/iprt/Linux/dependencies/generic/mempool-generic.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/generic/mempool-generic.o ../built/iprt/Linux/dependencies/generic/mempool-generic.depend: ../include/iprt/latin1.h
+../built/iprt/Linux/generic/mempool-generic.o ../built/iprt/Linux/dependencies/generic/mempool-generic.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/generic/mempool-generic.o ../built/iprt/Linux/dependencies/generic/mempool-generic.depend: ../include/iprt/string.h
+../built/iprt/Linux/generic/mempool-generic.o ../built/iprt/Linux/dependencies/generic/mempool-generic.depend: ../include/iprt/utf16.h
+../built/iprt/Linux/generic/mempool-generic.o ../built/iprt/Linux/dependencies/generic/mempool-generic.depend: generic/mempool-generic.cpp
+../built/iprt/Linux/generic/mempool-generic.o ../built/iprt/Linux/dependencies/generic/mempool-generic.depend: ../include/iprt/types.h

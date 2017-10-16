@@ -1,0 +1,15 @@
+../built/crutil/Linux/matrix.o ../built/crutil/Linux/dependencies/matrix.depend: ../include/iprt/assert.h
+../built/crutil/Linux/matrix.o ../built/crutil/Linux/dependencies/matrix.depend: ../include/iprt/stdarg.h
+../built/crutil/Linux/matrix.o ../built/crutil/Linux/dependencies/matrix.depend: ../include/iprt/stdint.h
+../built/crutil/Linux/matrix.o ../built/crutil/Linux/dependencies/matrix.depend: ../include/cr_matrix.h
+../built/crutil/Linux/matrix.o ../built/crutil/Linux/dependencies/matrix.depend: ../include/cr_glext.h
+../built/crutil/Linux/matrix.o ../built/crutil/Linux/dependencies/matrix.depend: ../include/iprt/cdefs.h
+../built/crutil/Linux/matrix.o ../built/crutil/Linux/dependencies/matrix.depend: ../include/chromium.h
+../built/crutil/Linux/matrix.o ../built/crutil/Linux/dependencies/matrix.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/crutil/Linux/matrix.o ../built/crutil/Linux/dependencies/matrix.depend: ../include/cr_compiler.h
+../built/crutil/Linux/matrix.o ../built/crutil/Linux/dependencies/matrix.depend: matrix.c
+../built/crutil/Linux/matrix.o ../built/crutil/Linux/dependencies/matrix.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/crutil/Linux/matrix.o ../built/crutil/Linux/dependencies/matrix.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/crutil/Linux/matrix.o ../built/crutil/Linux/dependencies/matrix.depend: ../include/cr_mem.h
+../built/crutil/Linux/matrix.o ../built/crutil/Linux/dependencies/matrix.depend: ../include/GL/glext.h
+../built/crutil/Linux/matrix.o ../built/crutil/Linux/dependencies/matrix.depend: ../include/iprt/types.h

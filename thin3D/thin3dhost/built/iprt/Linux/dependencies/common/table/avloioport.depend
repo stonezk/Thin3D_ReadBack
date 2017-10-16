@@ -1,0 +1,17 @@
+../built/iprt/Linux/common/table/avloioport.o ../built/iprt/Linux/dependencies/common/table/avloioport.depend: common/table/avloioport.cpp
+../built/iprt/Linux/common/table/avloioport.o ../built/iprt/Linux/dependencies/common/table/avloioport.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/table/avloioport.o ../built/iprt/Linux/dependencies/common/table/avloioport.depend: ../include/iprt/err.h
+../built/iprt/Linux/common/table/avloioport.o ../built/iprt/Linux/dependencies/common/table/avloioport.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/table/avloioport.o ../built/iprt/Linux/dependencies/common/table/avloioport.depend: ../include/iprt/avl.h
+../built/iprt/Linux/common/table/avloioport.o ../built/iprt/Linux/dependencies/common/table/avloioport.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/table/avloioport.o ../built/iprt/Linux/dependencies/common/table/avloioport.depend: common/table/avl_Destroy.cpp.h
+../built/iprt/Linux/common/table/avloioport.o ../built/iprt/Linux/dependencies/common/table/avloioport.depend: common/table/avl_RemoveBestFit.cpp.h
+../built/iprt/Linux/common/table/avloioport.o ../built/iprt/Linux/dependencies/common/table/avloioport.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/table/avloioport.o ../built/iprt/Linux/dependencies/common/table/avloioport.depend: common/table/avl_Base.cpp.h
+../built/iprt/Linux/common/table/avloioport.o ../built/iprt/Linux/dependencies/common/table/avloioport.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/table/avloioport.o ../built/iprt/Linux/dependencies/common/table/avloioport.depend: common/table/avl_DoWithAll.cpp.h
+../built/iprt/Linux/common/table/avloioport.o ../built/iprt/Linux/dependencies/common/table/avloioport.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/table/avloioport.o ../built/iprt/Linux/dependencies/common/table/avloioport.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/table/avloioport.o ../built/iprt/Linux/dependencies/common/table/avloioport.depend: common/table/avl_GetBestFit.cpp.h
+../built/iprt/Linux/common/table/avloioport.o ../built/iprt/Linux/dependencies/common/table/avloioport.depend: common/table/avl_Get.cpp.h
+../built/iprt/Linux/common/table/avloioport.o ../built/iprt/Linux/dependencies/common/table/avloioport.depend: ../include/iprt/types.h

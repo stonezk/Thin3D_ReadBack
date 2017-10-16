@@ -1,0 +1,3 @@
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcMessagePrimitives.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcMessagePrimitives.depend: ipc/ipcd/shared/src/ipcMessagePrimitives.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcMessagePrimitives.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcMessagePrimitives.depend: ipc/ipcd/shared/src/ipcMessage.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcMessagePrimitives.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcMessagePrimitives.depend: ipc/ipcd/shared/src/ipcMessagePrimitives.cpp

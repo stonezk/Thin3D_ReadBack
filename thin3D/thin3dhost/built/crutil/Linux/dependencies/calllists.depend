@@ -1,0 +1,14 @@
+../built/crutil/Linux/calllists.o ../built/crutil/Linux/dependencies/calllists.depend: ../include/iprt/assert.h
+../built/crutil/Linux/calllists.o ../built/crutil/Linux/dependencies/calllists.depend: ../include/cr_calllists.h
+../built/crutil/Linux/calllists.o ../built/crutil/Linux/dependencies/calllists.depend: ../include/iprt/stdarg.h
+../built/crutil/Linux/calllists.o ../built/crutil/Linux/dependencies/calllists.depend: ../include/iprt/stdint.h
+../built/crutil/Linux/calllists.o ../built/crutil/Linux/dependencies/calllists.depend: ../include/cr_glext.h
+../built/crutil/Linux/calllists.o ../built/crutil/Linux/dependencies/calllists.depend: ../include/iprt/cdefs.h
+../built/crutil/Linux/calllists.o ../built/crutil/Linux/dependencies/calllists.depend: ../include/chromium.h
+../built/crutil/Linux/calllists.o ../built/crutil/Linux/dependencies/calllists.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/crutil/Linux/calllists.o ../built/crutil/Linux/dependencies/calllists.depend: ../include/cr_compiler.h
+../built/crutil/Linux/calllists.o ../built/crutil/Linux/dependencies/calllists.depend: calllists.c
+../built/crutil/Linux/calllists.o ../built/crutil/Linux/dependencies/calllists.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/crutil/Linux/calllists.o ../built/crutil/Linux/dependencies/calllists.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/crutil/Linux/calllists.o ../built/crutil/Linux/dependencies/calllists.depend: ../include/GL/glext.h
+../built/crutil/Linux/calllists.o ../built/crutil/Linux/dependencies/calllists.depend: ../include/iprt/types.h

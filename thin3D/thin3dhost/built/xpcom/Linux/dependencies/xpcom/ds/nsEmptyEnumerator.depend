@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/ds/nsEmptyEnumerator.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsEmptyEnumerator.depend: xpcom/ds/nsEmptyEnumerator.h
+../built/xpcom/Linux/xpcom/ds/nsEmptyEnumerator.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsEmptyEnumerator.depend: xpcom/ds/nsEmptyEnumerator.cpp

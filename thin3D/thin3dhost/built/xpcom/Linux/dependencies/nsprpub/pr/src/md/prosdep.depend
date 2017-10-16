@@ -1,0 +1,1 @@
+../built/xpcom/Linux/nsprpub/pr/src/md/prosdep.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/md/prosdep.depend: nsprpub/pr/src/md/prosdep.c

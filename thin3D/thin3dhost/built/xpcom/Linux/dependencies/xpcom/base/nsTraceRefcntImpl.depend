@@ -1,0 +1,7 @@
+../built/xpcom/Linux/xpcom/base/nsTraceRefcntImpl.o ../built/xpcom/Linux/dependencies/xpcom/base/nsTraceRefcntImpl.depend: xpcom/base/nsStackFrameWin.h
+../built/xpcom/Linux/xpcom/base/nsTraceRefcntImpl.o ../built/xpcom/Linux/dependencies/xpcom/base/nsTraceRefcntImpl.depend: xpcom/base/nsError.h
+../built/xpcom/Linux/xpcom/base/nsTraceRefcntImpl.o ../built/xpcom/Linux/dependencies/xpcom/base/nsTraceRefcntImpl.depend: xpcom/base/nsTraceRefcntImpl.cpp
+../built/xpcom/Linux/xpcom/base/nsTraceRefcntImpl.o ../built/xpcom/Linux/dependencies/xpcom/base/nsTraceRefcntImpl.depend: xpcom/base/nscore.h
+../built/xpcom/Linux/xpcom/base/nsTraceRefcntImpl.o ../built/xpcom/Linux/dependencies/xpcom/base/nsTraceRefcntImpl.depend: xpcom/base/nsStackFrameUnix.h
+../built/xpcom/Linux/xpcom/base/nsTraceRefcntImpl.o ../built/xpcom/Linux/dependencies/xpcom/base/nsTraceRefcntImpl.depend: xpcom/base/nsTraceRefcntImpl.h
+../built/xpcom/Linux/xpcom/base/nsTraceRefcntImpl.o ../built/xpcom/Linux/dependencies/xpcom/base/nsTraceRefcntImpl.depend: ./xpcom-config.h

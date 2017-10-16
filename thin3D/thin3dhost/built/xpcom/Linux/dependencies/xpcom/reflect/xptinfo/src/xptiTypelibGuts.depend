@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/reflect/xptinfo/src/xptiTypelibGuts.o ../built/xpcom/Linux/dependencies/xpcom/reflect/xptinfo/src/xptiTypelibGuts.depend: xpcom/reflect/xptinfo/src/xptiprivate.h
+../built/xpcom/Linux/xpcom/reflect/xptinfo/src/xptiTypelibGuts.o ../built/xpcom/Linux/dependencies/xpcom/reflect/xptinfo/src/xptiTypelibGuts.depend: xpcom/reflect/xptinfo/src/xptiTypelibGuts.cpp

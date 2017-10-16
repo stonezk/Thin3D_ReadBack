@@ -1,0 +1,10 @@
+../built/xpcom/Linux/xpcom/ds/nsRecyclingAllocator.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsRecyclingAllocator.depend: ../include/iprt/stdarg.h
+../built/xpcom/Linux/xpcom/ds/nsRecyclingAllocator.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsRecyclingAllocator.depend: ../include/iprt/mem.h
+../built/xpcom/Linux/xpcom/ds/nsRecyclingAllocator.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsRecyclingAllocator.depend: xpcom/ds/nsRecyclingAllocator.cpp
+../built/xpcom/Linux/xpcom/ds/nsRecyclingAllocator.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsRecyclingAllocator.depend: ../include/iprt/cdefs.h
+../built/xpcom/Linux/xpcom/ds/nsRecyclingAllocator.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsRecyclingAllocator.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/xpcom/Linux/xpcom/ds/nsRecyclingAllocator.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsRecyclingAllocator.depend: xpcom/ds/nsRecyclingAllocator.h
+../built/xpcom/Linux/xpcom/ds/nsRecyclingAllocator.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsRecyclingAllocator.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/xpcom/Linux/xpcom/ds/nsRecyclingAllocator.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsRecyclingAllocator.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/xpcom/Linux/xpcom/ds/nsRecyclingAllocator.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsRecyclingAllocator.depend: ../include/iprt/stdint.h
+../built/xpcom/Linux/xpcom/ds/nsRecyclingAllocator.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsRecyclingAllocator.depend: ../include/iprt/types.h

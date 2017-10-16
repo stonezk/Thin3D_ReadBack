@@ -1,0 +1,3 @@
+../built/crutil/Linux/rand.o ../built/crutil/Linux/dependencies/rand.depend: ../include/iprt/cdefs.h
+../built/crutil/Linux/rand.o ../built/crutil/Linux/dependencies/rand.depend: ../include/cr_rand.h
+../built/crutil/Linux/rand.o ../built/crutil/Linux/dependencies/rand.depend: rand.c

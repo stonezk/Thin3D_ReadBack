@@ -1,0 +1,15 @@
+../built/iprt/Linux/common/asn1/asn1-encode.o ../built/iprt/Linux/dependencies/common/asn1/asn1-encode.depend: ../include/iprt/formats/asn1.h
+../built/iprt/Linux/common/asn1/asn1-encode.o ../built/iprt/Linux/dependencies/common/asn1/asn1-encode.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/asn1/asn1-encode.o ../built/iprt/Linux/dependencies/common/asn1/asn1-encode.depend: ../include/iprt/err.h
+../built/iprt/Linux/common/asn1/asn1-encode.o ../built/iprt/Linux/dependencies/common/asn1/asn1-encode.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/asn1/asn1-encode.o ../built/iprt/Linux/dependencies/common/asn1/asn1-encode.depend: ../include/iprt/bignum.h
+../built/iprt/Linux/common/asn1/asn1-encode.o ../built/iprt/Linux/dependencies/common/asn1/asn1-encode.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/asn1/asn1-encode.o ../built/iprt/Linux/dependencies/common/asn1/asn1-encode.depend: common/asn1/asn1-encode.cpp
+../built/iprt/Linux/common/asn1/asn1-encode.o ../built/iprt/Linux/dependencies/common/asn1/asn1-encode.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/asn1/asn1-encode.o ../built/iprt/Linux/dependencies/common/asn1/asn1-encode.depend: ../include/iprt/asn1.h
+../built/iprt/Linux/common/asn1/asn1-encode.o ../built/iprt/Linux/dependencies/common/asn1/asn1-encode.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/asn1/asn1-encode.o ../built/iprt/Linux/dependencies/common/asn1/asn1-encode.depend: ../include/iprt/ctype.h
+../built/iprt/Linux/common/asn1/asn1-encode.o ../built/iprt/Linux/dependencies/common/asn1/asn1-encode.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/asn1/asn1-encode.o ../built/iprt/Linux/dependencies/common/asn1/asn1-encode.depend: ../include/iprt/time.h
+../built/iprt/Linux/common/asn1/asn1-encode.o ../built/iprt/Linux/dependencies/common/asn1/asn1-encode.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/asn1/asn1-encode.o ../built/iprt/Linux/dependencies/common/asn1/asn1-encode.depend: ../include/iprt/types.h

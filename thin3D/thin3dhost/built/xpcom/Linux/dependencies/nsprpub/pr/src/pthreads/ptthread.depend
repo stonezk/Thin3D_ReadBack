@@ -1,0 +1,13 @@
+../built/xpcom/Linux/nsprpub/pr/src/pthreads/ptthread.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/pthreads/ptthread.depend: ../include/iprt/assert.h
+../built/xpcom/Linux/nsprpub/pr/src/pthreads/ptthread.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/pthreads/ptthread.depend: ../include/iprt/err.h
+../built/xpcom/Linux/nsprpub/pr/src/pthreads/ptthread.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/pthreads/ptthread.depend: ../include/iprt/stdarg.h
+../built/xpcom/Linux/nsprpub/pr/src/pthreads/ptthread.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/pthreads/ptthread.depend: ../include/iprt/mem.h
+../built/xpcom/Linux/nsprpub/pr/src/pthreads/ptthread.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/pthreads/ptthread.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/xpcom/Linux/nsprpub/pr/src/pthreads/ptthread.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/pthreads/ptthread.depend: ../include/iprt/stdint.h
+../built/xpcom/Linux/nsprpub/pr/src/pthreads/ptthread.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/pthreads/ptthread.depend: ../include/iprt/asm.h
+../built/xpcom/Linux/nsprpub/pr/src/pthreads/ptthread.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/pthreads/ptthread.depend: ../include/iprt/cdefs.h
+../built/xpcom/Linux/nsprpub/pr/src/pthreads/ptthread.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/pthreads/ptthread.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/xpcom/Linux/nsprpub/pr/src/pthreads/ptthread.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/pthreads/ptthread.depend: ../include/iprt/thread.h
+../built/xpcom/Linux/nsprpub/pr/src/pthreads/ptthread.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/pthreads/ptthread.depend: nsprpub/pr/src/pthreads/ptthread.c
+../built/xpcom/Linux/nsprpub/pr/src/pthreads/ptthread.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/pthreads/ptthread.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/xpcom/Linux/nsprpub/pr/src/pthreads/ptthread.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/pthreads/ptthread.depend: ../include/iprt/types.h

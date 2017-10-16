@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/ds/nsAtomService.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsAtomService.depend: xpcom/ds/nsAtomService.cpp
+../built/xpcom/Linux/xpcom/ds/nsAtomService.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsAtomService.depend: xpcom/ds/nsAtomService.h

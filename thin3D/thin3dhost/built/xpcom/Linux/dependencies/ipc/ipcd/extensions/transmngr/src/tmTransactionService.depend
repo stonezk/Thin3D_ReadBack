@@ -1,0 +1,2 @@
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/src/tmTransactionService.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/src/tmTransactionService.depend: ipc/ipcd/extensions/transmngr/src/tmTransactionService.cpp
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/src/tmTransactionService.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/src/tmTransactionService.depend: ipc/ipcd/extensions/transmngr/src/tmTransactionService.h

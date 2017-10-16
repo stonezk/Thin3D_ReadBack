@@ -1,0 +1,11 @@
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmVector.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmVector.depend: ../include/iprt/stdarg.h
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmVector.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmVector.depend: ../include/iprt/mem.h
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmVector.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmVector.depend: ipc/ipcd/extensions/transmngr/common/tmVector.cpp
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmVector.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmVector.depend: ../include/iprt/stdint.h
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmVector.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmVector.depend: ../include/iprt/cdefs.h
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmVector.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmVector.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmVector.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmVector.depend: ipc/ipcd/extensions/transmngr/common/tmUtils.h
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmVector.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmVector.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmVector.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmVector.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmVector.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmVector.depend: ipc/ipcd/extensions/transmngr/common/tmVector.h
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmVector.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmVector.depend: ../include/iprt/types.h

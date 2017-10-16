@@ -1,0 +1,17 @@
+../built/iprt/Linux/r3/path.o ../built/iprt/Linux/dependencies/r3/path.depend: ../include/iprt/assert.h
+../built/iprt/Linux/r3/path.o ../built/iprt/Linux/dependencies/r3/path.depend: ../include/iprt/path.h
+../built/iprt/Linux/r3/path.o ../built/iprt/Linux/dependencies/r3/path.depend: ../include/iprt/err.h
+../built/iprt/Linux/r3/path.o ../built/iprt/Linux/dependencies/r3/path.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/r3/path.o ../built/iprt/Linux/dependencies/r3/path.depend: ../include/iprt/fs.h
+../built/iprt/Linux/r3/path.o ../built/iprt/Linux/dependencies/r3/path.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/r3/path.o ../built/iprt/Linux/dependencies/r3/path.depend: ../include/iprt/time.h
+../built/iprt/Linux/r3/path.o ../built/iprt/Linux/dependencies/r3/path.depend: ../include/iprt/env.h
+../built/iprt/Linux/r3/path.o ../built/iprt/Linux/dependencies/r3/path.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/r3/path.o ../built/iprt/Linux/dependencies/r3/path.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/r3/path.o ../built/iprt/Linux/dependencies/r3/path.depend: r3/path.cpp
+../built/iprt/Linux/r3/path.o ../built/iprt/Linux/dependencies/r3/path.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/r3/path.o ../built/iprt/Linux/dependencies/r3/path.depend: ../include/iprt/latin1.h
+../built/iprt/Linux/r3/path.o ../built/iprt/Linux/dependencies/r3/path.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/r3/path.o ../built/iprt/Linux/dependencies/r3/path.depend: ../include/iprt/string.h
+../built/iprt/Linux/r3/path.o ../built/iprt/Linux/dependencies/r3/path.depend: ../include/iprt/utf16.h
+../built/iprt/Linux/r3/path.o ../built/iprt/Linux/dependencies/r3/path.depend: ../include/iprt/types.h

@@ -1,0 +1,1 @@
+../built/xpcom/Linux/nsprpub/lib/libc/src/strlen.o ../built/xpcom/Linux/dependencies/nsprpub/lib/libc/src/strlen.depend: nsprpub/lib/libc/src/strlen.c

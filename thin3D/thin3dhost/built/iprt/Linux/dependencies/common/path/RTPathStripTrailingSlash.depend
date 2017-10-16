@@ -1,0 +1,16 @@
+../built/iprt/Linux/common/path/RTPathStripTrailingSlash.o ../built/iprt/Linux/dependencies/common/path/RTPathStripTrailingSlash.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/path/RTPathStripTrailingSlash.o ../built/iprt/Linux/dependencies/common/path/RTPathStripTrailingSlash.depend: ../include/iprt/path.h
+../built/iprt/Linux/common/path/RTPathStripTrailingSlash.o ../built/iprt/Linux/dependencies/common/path/RTPathStripTrailingSlash.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/path/RTPathStripTrailingSlash.o ../built/iprt/Linux/dependencies/common/path/RTPathStripTrailingSlash.depend: ../include/iprt/fs.h
+../built/iprt/Linux/common/path/RTPathStripTrailingSlash.o ../built/iprt/Linux/dependencies/common/path/RTPathStripTrailingSlash.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/path/RTPathStripTrailingSlash.o ../built/iprt/Linux/dependencies/common/path/RTPathStripTrailingSlash.depend: ../include/iprt/time.h
+../built/iprt/Linux/common/path/RTPathStripTrailingSlash.o ../built/iprt/Linux/dependencies/common/path/RTPathStripTrailingSlash.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/path/RTPathStripTrailingSlash.o ../built/iprt/Linux/dependencies/common/path/RTPathStripTrailingSlash.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/path/RTPathStripTrailingSlash.o ../built/iprt/Linux/dependencies/common/path/RTPathStripTrailingSlash.depend: ../include/iprt/ctype.h
+../built/iprt/Linux/common/path/RTPathStripTrailingSlash.o ../built/iprt/Linux/dependencies/common/path/RTPathStripTrailingSlash.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/path/RTPathStripTrailingSlash.o ../built/iprt/Linux/dependencies/common/path/RTPathStripTrailingSlash.depend: ../include/iprt/string.h
+../built/iprt/Linux/common/path/RTPathStripTrailingSlash.o ../built/iprt/Linux/dependencies/common/path/RTPathStripTrailingSlash.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/path/RTPathStripTrailingSlash.o ../built/iprt/Linux/dependencies/common/path/RTPathStripTrailingSlash.depend: common/path/RTPathStripTrailingSlash.cpp
+../built/iprt/Linux/common/path/RTPathStripTrailingSlash.o ../built/iprt/Linux/dependencies/common/path/RTPathStripTrailingSlash.depend: ../include/iprt/utf16.h
+../built/iprt/Linux/common/path/RTPathStripTrailingSlash.o ../built/iprt/Linux/dependencies/common/path/RTPathStripTrailingSlash.depend: ../include/iprt/latin1.h
+../built/iprt/Linux/common/path/RTPathStripTrailingSlash.o ../built/iprt/Linux/dependencies/common/path/RTPathStripTrailingSlash.depend: ../include/iprt/types.h

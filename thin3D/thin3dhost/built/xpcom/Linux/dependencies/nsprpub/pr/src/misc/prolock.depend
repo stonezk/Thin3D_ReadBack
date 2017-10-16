@@ -1,0 +1,1 @@
+../built/xpcom/Linux/nsprpub/pr/src/misc/prolock.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/misc/prolock.depend: nsprpub/pr/src/misc/prolock.c

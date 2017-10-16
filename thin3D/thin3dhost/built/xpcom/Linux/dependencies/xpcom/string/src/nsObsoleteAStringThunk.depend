@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/string/src/nsObsoleteAStringThunk.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsObsoleteAStringThunk.depend: xpcom/string/src/nsObsoleteAStringThunk.cpp
+../built/xpcom/Linux/xpcom/string/src/nsObsoleteAStringThunk.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsObsoleteAStringThunk.depend: xpcom/string/src/nsTObsoleteAStringThunk.cpp

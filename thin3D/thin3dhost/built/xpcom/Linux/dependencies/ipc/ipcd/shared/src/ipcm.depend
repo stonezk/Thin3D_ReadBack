@@ -1,0 +1,4 @@
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcm.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcm.depend: ipc/ipcd/shared/src/ipcMessagePrimitives.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcm.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcm.depend: ipc/ipcd/shared/src/ipcMessage.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcm.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcm.depend: ipc/ipcd/shared/src/ipcm.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcm.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcm.depend: ipc/ipcd/shared/src/ipcm.cpp

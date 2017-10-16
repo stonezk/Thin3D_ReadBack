@@ -1,0 +1,12 @@
+../built/iprt/Linux/common/string/simplepattern.o ../built/iprt/Linux/dependencies/common/string/simplepattern.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/string/simplepattern.o ../built/iprt/Linux/dependencies/common/string/simplepattern.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/string/simplepattern.o ../built/iprt/Linux/dependencies/common/string/simplepattern.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/string/simplepattern.o ../built/iprt/Linux/dependencies/common/string/simplepattern.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/string/simplepattern.o ../built/iprt/Linux/dependencies/common/string/simplepattern.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/string/simplepattern.o ../built/iprt/Linux/dependencies/common/string/simplepattern.depend: common/string/simplepattern.cpp
+../built/iprt/Linux/common/string/simplepattern.o ../built/iprt/Linux/dependencies/common/string/simplepattern.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/string/simplepattern.o ../built/iprt/Linux/dependencies/common/string/simplepattern.depend: ../include/iprt/latin1.h
+../built/iprt/Linux/common/string/simplepattern.o ../built/iprt/Linux/dependencies/common/string/simplepattern.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/string/simplepattern.o ../built/iprt/Linux/dependencies/common/string/simplepattern.depend: ../include/iprt/string.h
+../built/iprt/Linux/common/string/simplepattern.o ../built/iprt/Linux/dependencies/common/string/simplepattern.depend: ../include/iprt/utf16.h
+../built/iprt/Linux/common/string/simplepattern.o ../built/iprt/Linux/dependencies/common/string/simplepattern.depend: ../include/iprt/types.h

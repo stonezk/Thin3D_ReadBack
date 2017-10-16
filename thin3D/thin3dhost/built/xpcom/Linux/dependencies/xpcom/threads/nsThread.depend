@@ -1,0 +1,3 @@
+../built/xpcom/Linux/xpcom/threads/nsThread.o ../built/xpcom/Linux/dependencies/xpcom/threads/nsThread.depend: xpcom/threads/nsThread.cpp
+../built/xpcom/Linux/xpcom/threads/nsThread.o ../built/xpcom/Linux/dependencies/xpcom/threads/nsThread.depend: xpcom/threads/nsThread.h
+../built/xpcom/Linux/xpcom/threads/nsThread.o ../built/xpcom/Linux/dependencies/xpcom/threads/nsThread.depend: xpcom/threads/nsAutoLock.h

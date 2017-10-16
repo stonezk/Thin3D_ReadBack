@@ -1,0 +1,3 @@
+../built/xpcom/Linux/xpcom/threads/nsEnvironment.o ../built/xpcom/Linux/dependencies/xpcom/threads/nsEnvironment.depend: xpcom/threads/nsAutoLock.h
+../built/xpcom/Linux/xpcom/threads/nsEnvironment.o ../built/xpcom/Linux/dependencies/xpcom/threads/nsEnvironment.depend: xpcom/threads/nsEnvironment.cpp
+../built/xpcom/Linux/xpcom/threads/nsEnvironment.o ../built/xpcom/Linux/dependencies/xpcom/threads/nsEnvironment.depend: xpcom/threads/nsEnvironment.h

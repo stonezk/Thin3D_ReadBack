@@ -1,0 +1,13 @@
+../built/crutil/Linux/dll.o ../built/crutil/Linux/dependencies/dll.depend: ../include/iprt/assert.h
+../built/crutil/Linux/dll.o ../built/crutil/Linux/dependencies/dll.depend: ../include/iprt/stdarg.h
+../built/crutil/Linux/dll.o ../built/crutil/Linux/dependencies/dll.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/crutil/Linux/dll.o ../built/crutil/Linux/dependencies/dll.depend: ../include/iprt/stdint.h
+../built/crutil/Linux/dll.o ../built/crutil/Linux/dependencies/dll.depend: ../include/iprt/cdefs.h
+../built/crutil/Linux/dll.o ../built/crutil/Linux/dependencies/dll.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/crutil/Linux/dll.o ../built/crutil/Linux/dependencies/dll.depend: ../include/cr_dll.h
+../built/crutil/Linux/dll.o ../built/crutil/Linux/dependencies/dll.depend: ../include/cr_string.h
+../built/crutil/Linux/dll.o ../built/crutil/Linux/dependencies/dll.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/crutil/Linux/dll.o ../built/crutil/Linux/dependencies/dll.depend: ../include/cr_error.h
+../built/crutil/Linux/dll.o ../built/crutil/Linux/dependencies/dll.depend: dll.c
+../built/crutil/Linux/dll.o ../built/crutil/Linux/dependencies/dll.depend: ../include/cr_mem.h
+../built/crutil/Linux/dll.o ../built/crutil/Linux/dependencies/dll.depend: ../include/iprt/types.h

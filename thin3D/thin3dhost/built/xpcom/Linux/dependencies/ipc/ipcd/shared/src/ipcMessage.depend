@@ -1,0 +1,10 @@
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcMessage.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcMessage.depend: ipc/ipcd/shared/src/ipcMessage.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcMessage.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcMessage.depend: ipc/ipcd/shared/src/ipcMessage.cpp
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcMessage.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcMessage.depend: ../include/iprt/stdarg.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcMessage.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcMessage.depend: ../include/iprt/mem.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcMessage.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcMessage.depend: ../include/iprt/stdint.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcMessage.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcMessage.depend: ../include/iprt/cdefs.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcMessage.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcMessage.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcMessage.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcMessage.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcMessage.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcMessage.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcMessage.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcMessage.depend: ../include/iprt/types.h

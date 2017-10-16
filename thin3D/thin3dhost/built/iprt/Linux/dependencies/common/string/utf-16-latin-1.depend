@@ -1,0 +1,16 @@
+../built/iprt/Linux/common/string/utf-16-latin-1.o ../built/iprt/Linux/dependencies/common/string/utf-16-latin-1.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/string/utf-16-latin-1.o ../built/iprt/Linux/dependencies/common/string/utf-16-latin-1.depend: ../include/iprt/err.h
+../built/iprt/Linux/common/string/utf-16-latin-1.o ../built/iprt/Linux/dependencies/common/string/utf-16-latin-1.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/string/utf-16-latin-1.o ../built/iprt/Linux/dependencies/common/string/utf-16-latin-1.depend: ../include/iprt/mem.h
+../built/iprt/Linux/common/string/utf-16-latin-1.o ../built/iprt/Linux/dependencies/common/string/utf-16-latin-1.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/string/utf-16-latin-1.o ../built/iprt/Linux/dependencies/common/string/utf-16-latin-1.depend: ../include/iprt/uni.h
+../built/iprt/Linux/common/string/utf-16-latin-1.o ../built/iprt/Linux/dependencies/common/string/utf-16-latin-1.depend: common/string/utf-16-latin-1.cpp
+../built/iprt/Linux/common/string/utf-16-latin-1.o ../built/iprt/Linux/dependencies/common/string/utf-16-latin-1.depend: ../include/iprt/alloc.h
+../built/iprt/Linux/common/string/utf-16-latin-1.o ../built/iprt/Linux/dependencies/common/string/utf-16-latin-1.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/string/utf-16-latin-1.o ../built/iprt/Linux/dependencies/common/string/utf-16-latin-1.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/string/utf-16-latin-1.o ../built/iprt/Linux/dependencies/common/string/utf-16-latin-1.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/string/utf-16-latin-1.o ../built/iprt/Linux/dependencies/common/string/utf-16-latin-1.depend: ../include/iprt/latin1.h
+../built/iprt/Linux/common/string/utf-16-latin-1.o ../built/iprt/Linux/dependencies/common/string/utf-16-latin-1.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/string/utf-16-latin-1.o ../built/iprt/Linux/dependencies/common/string/utf-16-latin-1.depend: ../include/iprt/string.h
+../built/iprt/Linux/common/string/utf-16-latin-1.o ../built/iprt/Linux/dependencies/common/string/utf-16-latin-1.depend: ../include/iprt/utf16.h
+../built/iprt/Linux/common/string/utf-16-latin-1.o ../built/iprt/Linux/dependencies/common/string/utf-16-latin-1.depend: ../include/iprt/types.h

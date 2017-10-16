@@ -1,0 +1,11 @@
+../built/iprt/Linux/common/err/RTErrConvertToErrno.o ../built/iprt/Linux/dependencies/common/err/RTErrConvertToErrno.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/err/RTErrConvertToErrno.o ../built/iprt/Linux/dependencies/common/err/RTErrConvertToErrno.depend: ../include/iprt/err.h
+../built/iprt/Linux/common/err/RTErrConvertToErrno.o ../built/iprt/Linux/dependencies/common/err/RTErrConvertToErrno.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/err/RTErrConvertToErrno.o ../built/iprt/Linux/dependencies/common/err/RTErrConvertToErrno.depend: ../include/iprt/errno.h
+../built/iprt/Linux/common/err/RTErrConvertToErrno.o ../built/iprt/Linux/dependencies/common/err/RTErrConvertToErrno.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/err/RTErrConvertToErrno.o ../built/iprt/Linux/dependencies/common/err/RTErrConvertToErrno.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/err/RTErrConvertToErrno.o ../built/iprt/Linux/dependencies/common/err/RTErrConvertToErrno.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/err/RTErrConvertToErrno.o ../built/iprt/Linux/dependencies/common/err/RTErrConvertToErrno.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/err/RTErrConvertToErrno.o ../built/iprt/Linux/dependencies/common/err/RTErrConvertToErrno.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/err/RTErrConvertToErrno.o ../built/iprt/Linux/dependencies/common/err/RTErrConvertToErrno.depend: common/err/RTErrConvertToErrno.cpp
+../built/iprt/Linux/common/err/RTErrConvertToErrno.o ../built/iprt/Linux/dependencies/common/err/RTErrConvertToErrno.depend: ../include/iprt/types.h

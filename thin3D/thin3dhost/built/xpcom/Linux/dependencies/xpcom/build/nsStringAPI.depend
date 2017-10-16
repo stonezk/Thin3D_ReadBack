@@ -1,0 +1,1 @@
+../built/xpcom/Linux/xpcom/build/nsStringAPI.o ../built/xpcom/Linux/dependencies/xpcom/build/nsStringAPI.depend: xpcom/build/nsStringAPI.cpp

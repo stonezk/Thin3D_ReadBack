@@ -1,0 +1,5 @@
+../built/xpcom/Linux/xpcom/ds/nsArray.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsArray.depend: xpcom/ds/nsArrayEnumerator.h
+../built/xpcom/Linux/xpcom/ds/nsArray.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsArray.depend: xpcom/ds/nsArray.h
+../built/xpcom/Linux/xpcom/ds/nsArray.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsArray.depend: xpcom/ds/nsCOMArray.h
+../built/xpcom/Linux/xpcom/ds/nsArray.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsArray.depend: xpcom/ds/nsArray.cpp
+../built/xpcom/Linux/xpcom/ds/nsArray.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsArray.depend: xpcom/ds/nsVoidArray.h

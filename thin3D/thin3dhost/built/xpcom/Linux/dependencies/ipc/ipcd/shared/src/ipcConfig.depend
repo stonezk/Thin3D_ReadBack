@@ -1,0 +1,12 @@
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcConfig.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcConfig.depend: ../include/iprt/stdarg.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcConfig.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcConfig.depend: ipc/ipcd/shared/src/ipcConfig.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcConfig.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcConfig.depend: ../include/iprt/stdint.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcConfig.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcConfig.depend: ../include/VBox/log.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcConfig.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcConfig.depend: ../include/iprt/cdefs.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcConfig.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcConfig.depend: ../include/iprt/log.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcConfig.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcConfig.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcConfig.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcConfig.depend: ipc/ipcd/shared/src/ipcConfig.cpp
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcConfig.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcConfig.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcConfig.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcConfig.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcConfig.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcConfig.depend: ipc/ipcd/shared/src/ipcLog.h
+../built/xpcom/Linux/ipc/ipcd/shared/src/ipcConfig.o ../built/xpcom/Linux/dependencies/ipc/ipcd/shared/src/ipcConfig.depend: ../include/iprt/types.h

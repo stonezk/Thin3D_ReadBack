@@ -1,0 +1,17 @@
+../built/iprt/Linux/common/asn1/asn1-efence-allocator.o ../built/iprt/Linux/dependencies/common/asn1/asn1-efence-allocator.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/asn1/asn1-efence-allocator.o ../built/iprt/Linux/dependencies/common/asn1/asn1-efence-allocator.depend: ../include/iprt/formats/asn1.h
+../built/iprt/Linux/common/asn1/asn1-efence-allocator.o ../built/iprt/Linux/dependencies/common/asn1/asn1-efence-allocator.depend: ../include/iprt/err.h
+../built/iprt/Linux/common/asn1/asn1-efence-allocator.o ../built/iprt/Linux/dependencies/common/asn1/asn1-efence-allocator.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/asn1/asn1-efence-allocator.o ../built/iprt/Linux/dependencies/common/asn1/asn1-efence-allocator.depend: ../include/iprt/mem.h
+../built/iprt/Linux/common/asn1/asn1-efence-allocator.o ../built/iprt/Linux/dependencies/common/asn1/asn1-efence-allocator.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/asn1/asn1-efence-allocator.o ../built/iprt/Linux/dependencies/common/asn1/asn1-efence-allocator.depend: ../include/iprt/time.h
+../built/iprt/Linux/common/asn1/asn1-efence-allocator.o ../built/iprt/Linux/dependencies/common/asn1/asn1-efence-allocator.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/asn1/asn1-efence-allocator.o ../built/iprt/Linux/dependencies/common/asn1/asn1-efence-allocator.depend: ../include/iprt/asn1.h
+../built/iprt/Linux/common/asn1/asn1-efence-allocator.o ../built/iprt/Linux/dependencies/common/asn1/asn1-efence-allocator.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/asn1/asn1-efence-allocator.o ../built/iprt/Linux/dependencies/common/asn1/asn1-efence-allocator.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/asn1/asn1-efence-allocator.o ../built/iprt/Linux/dependencies/common/asn1/asn1-efence-allocator.depend: ../include/iprt/latin1.h
+../built/iprt/Linux/common/asn1/asn1-efence-allocator.o ../built/iprt/Linux/dependencies/common/asn1/asn1-efence-allocator.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/asn1/asn1-efence-allocator.o ../built/iprt/Linux/dependencies/common/asn1/asn1-efence-allocator.depend: ../include/iprt/string.h
+../built/iprt/Linux/common/asn1/asn1-efence-allocator.o ../built/iprt/Linux/dependencies/common/asn1/asn1-efence-allocator.depend: ../include/iprt/utf16.h
+../built/iprt/Linux/common/asn1/asn1-efence-allocator.o ../built/iprt/Linux/dependencies/common/asn1/asn1-efence-allocator.depend: common/asn1/asn1-efence-allocator.cpp
+../built/iprt/Linux/common/asn1/asn1-efence-allocator.o ../built/iprt/Linux/dependencies/common/asn1/asn1-efence-allocator.depend: ../include/iprt/types.h

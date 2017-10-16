@@ -1,0 +1,14 @@
+../built/xpcom/Linux/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.depend: ../include/iprt/err.h
+../built/xpcom/Linux/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.depend: ../include/iprt/stdarg.h
+../built/xpcom/Linux/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.depend: ../include/iprt/mem.h
+../built/xpcom/Linux/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.depend: ../include/iprt/stdint.h
+../built/xpcom/Linux/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.depend: ../include/iprt/cdefs.h
+../built/xpcom/Linux/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/xpcom/Linux/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.depend: ipc/ipcd/extensions/dconnect/src/ipcDConnectService.cpp
+../built/xpcom/Linux/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.depend: ../include/iprt/req.h
+../built/xpcom/Linux/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.depend: ../include/iprt/thread.h
+../built/xpcom/Linux/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/xpcom/Linux/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.depend: ../include/iprt/time.h
+../built/xpcom/Linux/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/xpcom/Linux/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.depend: ipc/ipcd/extensions/dconnect/src/ipcDConnectService.h
+../built/xpcom/Linux/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/dconnect/src/ipcDConnectService.depend: ../include/iprt/types.h

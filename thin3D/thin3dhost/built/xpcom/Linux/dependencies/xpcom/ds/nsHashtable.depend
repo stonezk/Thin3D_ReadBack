@@ -1,0 +1,5 @@
+../built/xpcom/Linux/xpcom/ds/nsHashtable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsHashtable.depend: xpcom/ds/nsCRT.h
+../built/xpcom/Linux/xpcom/ds/nsHashtable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsHashtable.depend: xpcom/ds/pldhash.h
+../built/xpcom/Linux/xpcom/ds/nsHashtable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsHashtable.depend: xpcom/ds/nsHashtable.cpp
+../built/xpcom/Linux/xpcom/ds/nsHashtable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsHashtable.depend: xpcom/ds/nsCppSharedAllocator.h
+../built/xpcom/Linux/xpcom/ds/nsHashtable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsHashtable.depend: xpcom/ds/nsHashtable.h

@@ -1,0 +1,1 @@
+../built/xpcom/Linux/nsprpub/pr/src/memory/prseg.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/memory/prseg.depend: nsprpub/pr/src/memory/prseg.c

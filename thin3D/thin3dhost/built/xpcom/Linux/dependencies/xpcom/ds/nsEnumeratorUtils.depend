@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/ds/nsEnumeratorUtils.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsEnumeratorUtils.depend: xpcom/ds/nsEnumeratorUtils.h
+../built/xpcom/Linux/xpcom/ds/nsEnumeratorUtils.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsEnumeratorUtils.depend: xpcom/ds/nsEnumeratorUtils.cpp

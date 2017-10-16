@@ -1,0 +1,9 @@
+../built/xpcom/Linux/nsprpub/pr/src/malloc/prmem.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/malloc/prmem.depend: ../include/iprt/stdarg.h
+../built/xpcom/Linux/nsprpub/pr/src/malloc/prmem.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/malloc/prmem.depend: ../include/iprt/mem.h
+../built/xpcom/Linux/nsprpub/pr/src/malloc/prmem.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/malloc/prmem.depend: ../include/iprt/stdint.h
+../built/xpcom/Linux/nsprpub/pr/src/malloc/prmem.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/malloc/prmem.depend: ../include/iprt/cdefs.h
+../built/xpcom/Linux/nsprpub/pr/src/malloc/prmem.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/malloc/prmem.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/xpcom/Linux/nsprpub/pr/src/malloc/prmem.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/malloc/prmem.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/xpcom/Linux/nsprpub/pr/src/malloc/prmem.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/malloc/prmem.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/xpcom/Linux/nsprpub/pr/src/malloc/prmem.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/malloc/prmem.depend: nsprpub/pr/src/malloc/prmem.c
+../built/xpcom/Linux/nsprpub/pr/src/malloc/prmem.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/malloc/prmem.depend: ../include/iprt/types.h

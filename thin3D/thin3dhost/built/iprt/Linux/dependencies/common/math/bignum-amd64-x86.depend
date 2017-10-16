@@ -1,0 +1,1 @@
+../built/iprt/Linux/common/math/bignum-amd64-x86.o ../built/iprt/Linux/dependencies/common/math/bignum-amd64-x86.depend: common/math/bignum-amd64-x86.asm

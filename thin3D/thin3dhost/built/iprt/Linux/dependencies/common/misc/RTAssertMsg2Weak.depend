@@ -1,0 +1,9 @@
+../built/iprt/Linux/common/misc/RTAssertMsg2Weak.o ../built/iprt/Linux/dependencies/common/misc/RTAssertMsg2Weak.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/misc/RTAssertMsg2Weak.o ../built/iprt/Linux/dependencies/common/misc/RTAssertMsg2Weak.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/misc/RTAssertMsg2Weak.o ../built/iprt/Linux/dependencies/common/misc/RTAssertMsg2Weak.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/misc/RTAssertMsg2Weak.o ../built/iprt/Linux/dependencies/common/misc/RTAssertMsg2Weak.depend: common/misc/RTAssertMsg2Weak.cpp
+../built/iprt/Linux/common/misc/RTAssertMsg2Weak.o ../built/iprt/Linux/dependencies/common/misc/RTAssertMsg2Weak.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/misc/RTAssertMsg2Weak.o ../built/iprt/Linux/dependencies/common/misc/RTAssertMsg2Weak.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/misc/RTAssertMsg2Weak.o ../built/iprt/Linux/dependencies/common/misc/RTAssertMsg2Weak.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/misc/RTAssertMsg2Weak.o ../built/iprt/Linux/dependencies/common/misc/RTAssertMsg2Weak.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/misc/RTAssertMsg2Weak.o ../built/iprt/Linux/dependencies/common/misc/RTAssertMsg2Weak.depend: ../include/iprt/types.h

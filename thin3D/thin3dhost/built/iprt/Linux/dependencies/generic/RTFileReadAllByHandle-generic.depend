@@ -1,0 +1,12 @@
+../built/iprt/Linux/generic/RTFileReadAllByHandle-generic.o ../built/iprt/Linux/dependencies/generic/RTFileReadAllByHandle-generic.depend: ../include/iprt/file.h
+../built/iprt/Linux/generic/RTFileReadAllByHandle-generic.o ../built/iprt/Linux/dependencies/generic/RTFileReadAllByHandle-generic.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/generic/RTFileReadAllByHandle-generic.o ../built/iprt/Linux/dependencies/generic/RTFileReadAllByHandle-generic.depend: ../include/iprt/fs.h
+../built/iprt/Linux/generic/RTFileReadAllByHandle-generic.o ../built/iprt/Linux/dependencies/generic/RTFileReadAllByHandle-generic.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/generic/RTFileReadAllByHandle-generic.o ../built/iprt/Linux/dependencies/generic/RTFileReadAllByHandle-generic.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/generic/RTFileReadAllByHandle-generic.o ../built/iprt/Linux/dependencies/generic/RTFileReadAllByHandle-generic.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/generic/RTFileReadAllByHandle-generic.o ../built/iprt/Linux/dependencies/generic/RTFileReadAllByHandle-generic.depend: generic/RTFileReadAllByHandle-generic.cpp
+../built/iprt/Linux/generic/RTFileReadAllByHandle-generic.o ../built/iprt/Linux/dependencies/generic/RTFileReadAllByHandle-generic.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/generic/RTFileReadAllByHandle-generic.o ../built/iprt/Linux/dependencies/generic/RTFileReadAllByHandle-generic.depend: ../include/iprt/time.h
+../built/iprt/Linux/generic/RTFileReadAllByHandle-generic.o ../built/iprt/Linux/dependencies/generic/RTFileReadAllByHandle-generic.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/generic/RTFileReadAllByHandle-generic.o ../built/iprt/Linux/dependencies/generic/RTFileReadAllByHandle-generic.depend: ../include/iprt/sg.h
+../built/iprt/Linux/generic/RTFileReadAllByHandle-generic.o ../built/iprt/Linux/dependencies/generic/RTFileReadAllByHandle-generic.depend: ../include/iprt/types.h

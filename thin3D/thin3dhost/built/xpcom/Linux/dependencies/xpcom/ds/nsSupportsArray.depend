@@ -1,0 +1,3 @@
+../built/xpcom/Linux/xpcom/ds/nsSupportsArray.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsSupportsArray.depend: xpcom/ds/nsSupportsArray.h
+../built/xpcom/Linux/xpcom/ds/nsSupportsArray.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsSupportsArray.depend: xpcom/ds/nsSupportsArray.cpp
+../built/xpcom/Linux/xpcom/ds/nsSupportsArray.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsSupportsArray.depend: xpcom/ds/nsSupportsArrayEnumerator.h

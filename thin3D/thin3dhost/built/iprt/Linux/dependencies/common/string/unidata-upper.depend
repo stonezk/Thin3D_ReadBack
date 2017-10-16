@@ -1,0 +1,9 @@
+../built/iprt/Linux/common/string/unidata-upper.o ../built/iprt/Linux/dependencies/common/string/unidata-upper.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/string/unidata-upper.o ../built/iprt/Linux/dependencies/common/string/unidata-upper.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/string/unidata-upper.o ../built/iprt/Linux/dependencies/common/string/unidata-upper.depend: ../include/iprt/uni.h
+../built/iprt/Linux/common/string/unidata-upper.o ../built/iprt/Linux/dependencies/common/string/unidata-upper.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/string/unidata-upper.o ../built/iprt/Linux/dependencies/common/string/unidata-upper.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/string/unidata-upper.o ../built/iprt/Linux/dependencies/common/string/unidata-upper.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/string/unidata-upper.o ../built/iprt/Linux/dependencies/common/string/unidata-upper.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/string/unidata-upper.o ../built/iprt/Linux/dependencies/common/string/unidata-upper.depend: ../include/iprt/types.h
+../built/iprt/Linux/common/string/unidata-upper.o ../built/iprt/Linux/dependencies/common/string/unidata-upper.depend: common/string/unidata-upper.cpp

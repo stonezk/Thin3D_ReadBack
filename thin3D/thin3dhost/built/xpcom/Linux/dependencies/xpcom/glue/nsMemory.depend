@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/glue/nsMemory.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsMemory.depend: xpcom/glue/nsMemory.cpp
+../built/xpcom/Linux/xpcom/glue/nsMemory.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsMemory.depend: xpcom/glue/nsMemory.h

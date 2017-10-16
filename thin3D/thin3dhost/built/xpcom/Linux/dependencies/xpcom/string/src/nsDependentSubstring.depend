@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/string/src/nsDependentSubstring.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsDependentSubstring.depend: xpcom/string/src/nsDependentSubstring.cpp
+../built/xpcom/Linux/xpcom/string/src/nsDependentSubstring.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsDependentSubstring.depend: xpcom/string/src/nsTDependentSubstring.cpp

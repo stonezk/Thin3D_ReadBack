@@ -1,0 +1,3 @@
+../built/xpcom/Linux/xpcom/io/nsPipe3.o ../built/xpcom/Linux/dependencies/xpcom/io/nsPipe3.depend: xpcom/io/nsPipe3.cpp
+../built/xpcom/Linux/xpcom/io/nsPipe3.o ../built/xpcom/Linux/dependencies/xpcom/io/nsPipe3.depend: xpcom/io/nsSegmentedBuffer.h
+../built/xpcom/Linux/xpcom/io/nsPipe3.o ../built/xpcom/Linux/dependencies/xpcom/io/nsPipe3.depend: xpcom/io/nsStreamUtils.h

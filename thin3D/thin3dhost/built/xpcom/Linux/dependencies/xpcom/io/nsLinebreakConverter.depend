@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/io/nsLinebreakConverter.o ../built/xpcom/Linux/dependencies/xpcom/io/nsLinebreakConverter.depend: xpcom/io/nsLinebreakConverter.cpp
+../built/xpcom/Linux/xpcom/io/nsLinebreakConverter.o ../built/xpcom/Linux/dependencies/xpcom/io/nsLinebreakConverter.depend: xpcom/io/nsLinebreakConverter.h

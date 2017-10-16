@@ -1,0 +1,15 @@
+../built/xpcom/Linux/nsprpub/pr/src/md/unix/uxproces.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/md/unix/uxproces.depend: ../include/iprt/file.h
+../built/xpcom/Linux/nsprpub/pr/src/md/unix/uxproces.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/md/unix/uxproces.depend: ../include/iprt/stdarg.h
+../built/xpcom/Linux/nsprpub/pr/src/md/unix/uxproces.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/md/unix/uxproces.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/xpcom/Linux/nsprpub/pr/src/md/unix/uxproces.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/md/unix/uxproces.depend: ../include/iprt/stdint.h
+../built/xpcom/Linux/nsprpub/pr/src/md/unix/uxproces.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/md/unix/uxproces.depend: ../include/iprt/fs.h
+../built/xpcom/Linux/nsprpub/pr/src/md/unix/uxproces.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/md/unix/uxproces.depend: ../include/iprt/process.h
+../built/xpcom/Linux/nsprpub/pr/src/md/unix/uxproces.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/md/unix/uxproces.depend: ../include/iprt/env.h
+../built/xpcom/Linux/nsprpub/pr/src/md/unix/uxproces.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/md/unix/uxproces.depend: ../include/iprt/cdefs.h
+../built/xpcom/Linux/nsprpub/pr/src/md/unix/uxproces.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/md/unix/uxproces.depend: ../include/iprt/err.h
+../built/xpcom/Linux/nsprpub/pr/src/md/unix/uxproces.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/md/unix/uxproces.depend: nsprpub/pr/src/md/unix/uxproces.c
+../built/xpcom/Linux/nsprpub/pr/src/md/unix/uxproces.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/md/unix/uxproces.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/xpcom/Linux/nsprpub/pr/src/md/unix/uxproces.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/md/unix/uxproces.depend: ../include/iprt/time.h
+../built/xpcom/Linux/nsprpub/pr/src/md/unix/uxproces.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/md/unix/uxproces.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/xpcom/Linux/nsprpub/pr/src/md/unix/uxproces.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/md/unix/uxproces.depend: ../include/iprt/sg.h
+../built/xpcom/Linux/nsprpub/pr/src/md/unix/uxproces.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/md/unix/uxproces.depend: ../include/iprt/types.h

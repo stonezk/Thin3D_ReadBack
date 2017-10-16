@@ -1,0 +1,14 @@
+../built/iprt/Linux/common/misc/semspingpong.o ../built/iprt/Linux/dependencies/common/misc/semspingpong.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/misc/semspingpong.o ../built/iprt/Linux/dependencies/common/misc/semspingpong.depend: ../include/iprt/err.h
+../built/iprt/Linux/common/misc/semspingpong.o ../built/iprt/Linux/dependencies/common/misc/semspingpong.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/misc/semspingpong.o ../built/iprt/Linux/dependencies/common/misc/semspingpong.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/misc/semspingpong.o ../built/iprt/Linux/dependencies/common/misc/semspingpong.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/misc/semspingpong.o ../built/iprt/Linux/dependencies/common/misc/semspingpong.depend: ../include/iprt/asm.h
+../built/iprt/Linux/common/misc/semspingpong.o ../built/iprt/Linux/dependencies/common/misc/semspingpong.depend: ../include/iprt/lockvalidator.h
+../built/iprt/Linux/common/misc/semspingpong.o ../built/iprt/Linux/dependencies/common/misc/semspingpong.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/misc/semspingpong.o ../built/iprt/Linux/dependencies/common/misc/semspingpong.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/misc/semspingpong.o ../built/iprt/Linux/dependencies/common/misc/semspingpong.depend: ../include/iprt/semaphore.h
+../built/iprt/Linux/common/misc/semspingpong.o ../built/iprt/Linux/dependencies/common/misc/semspingpong.depend: ../include/iprt/thread.h
+../built/iprt/Linux/common/misc/semspingpong.o ../built/iprt/Linux/dependencies/common/misc/semspingpong.depend: common/misc/semspingpong.cpp
+../built/iprt/Linux/common/misc/semspingpong.o ../built/iprt/Linux/dependencies/common/misc/semspingpong.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/misc/semspingpong.o ../built/iprt/Linux/dependencies/common/misc/semspingpong.depend: ../include/iprt/types.h

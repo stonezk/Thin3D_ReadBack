@@ -1,0 +1,3 @@
+../built/xpcom/Linux/xpcom/io/nsStorageStream.o ../built/xpcom/Linux/dependencies/xpcom/io/nsStorageStream.depend: xpcom/io/nsStorageStream.h
+../built/xpcom/Linux/xpcom/io/nsStorageStream.o ../built/xpcom/Linux/dependencies/xpcom/io/nsStorageStream.depend: xpcom/io/nsSegmentedBuffer.h
+../built/xpcom/Linux/xpcom/io/nsStorageStream.o ../built/xpcom/Linux/dependencies/xpcom/io/nsStorageStream.depend: xpcom/io/nsStorageStream.cpp

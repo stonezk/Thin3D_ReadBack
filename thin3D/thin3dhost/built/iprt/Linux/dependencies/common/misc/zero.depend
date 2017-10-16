@@ -1,0 +1,1 @@
+../built/iprt/Linux/common/misc/zero.o ../built/iprt/Linux/dependencies/common/misc/zero.depend: common/misc/zero.asm

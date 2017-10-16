@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/io/nsEscape.o ../built/xpcom/Linux/dependencies/xpcom/io/nsEscape.depend: xpcom/io/nsEscape.h
+../built/xpcom/Linux/xpcom/io/nsEscape.o ../built/xpcom/Linux/dependencies/xpcom/io/nsEscape.depend: xpcom/io/nsEscape.cpp

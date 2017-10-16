@@ -1,0 +1,17 @@
+../built/iprt/Linux/common/misc/RTFileModeToFlags.o ../built/iprt/Linux/dependencies/common/misc/RTFileModeToFlags.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/misc/RTFileModeToFlags.o ../built/iprt/Linux/dependencies/common/misc/RTFileModeToFlags.depend: ../include/iprt/file.h
+../built/iprt/Linux/common/misc/RTFileModeToFlags.o ../built/iprt/Linux/dependencies/common/misc/RTFileModeToFlags.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/misc/RTFileModeToFlags.o ../built/iprt/Linux/dependencies/common/misc/RTFileModeToFlags.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/misc/RTFileModeToFlags.o ../built/iprt/Linux/dependencies/common/misc/RTFileModeToFlags.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/misc/RTFileModeToFlags.o ../built/iprt/Linux/dependencies/common/misc/RTFileModeToFlags.depend: ../include/iprt/fs.h
+../built/iprt/Linux/common/misc/RTFileModeToFlags.o ../built/iprt/Linux/dependencies/common/misc/RTFileModeToFlags.depend: ../include/iprt/err.h
+../built/iprt/Linux/common/misc/RTFileModeToFlags.o ../built/iprt/Linux/dependencies/common/misc/RTFileModeToFlags.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/misc/RTFileModeToFlags.o ../built/iprt/Linux/dependencies/common/misc/RTFileModeToFlags.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/misc/RTFileModeToFlags.o ../built/iprt/Linux/dependencies/common/misc/RTFileModeToFlags.depend: ../include/iprt/time.h
+../built/iprt/Linux/common/misc/RTFileModeToFlags.o ../built/iprt/Linux/dependencies/common/misc/RTFileModeToFlags.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/misc/RTFileModeToFlags.o ../built/iprt/Linux/dependencies/common/misc/RTFileModeToFlags.depend: ../include/iprt/latin1.h
+../built/iprt/Linux/common/misc/RTFileModeToFlags.o ../built/iprt/Linux/dependencies/common/misc/RTFileModeToFlags.depend: common/misc/RTFileModeToFlags.cpp
+../built/iprt/Linux/common/misc/RTFileModeToFlags.o ../built/iprt/Linux/dependencies/common/misc/RTFileModeToFlags.depend: ../include/iprt/string.h
+../built/iprt/Linux/common/misc/RTFileModeToFlags.o ../built/iprt/Linux/dependencies/common/misc/RTFileModeToFlags.depend: ../include/iprt/utf16.h
+../built/iprt/Linux/common/misc/RTFileModeToFlags.o ../built/iprt/Linux/dependencies/common/misc/RTFileModeToFlags.depend: ../include/iprt/sg.h
+../built/iprt/Linux/common/misc/RTFileModeToFlags.o ../built/iprt/Linux/dependencies/common/misc/RTFileModeToFlags.depend: ../include/iprt/types.h

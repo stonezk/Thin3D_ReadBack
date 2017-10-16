@@ -1,0 +1,5 @@
+../built/xpcom/Linux/xpcom/base/nsID.o ../built/xpcom/Linux/dependencies/xpcom/base/nsID.depend: ./xpcom-config.h
+../built/xpcom/Linux/xpcom/base/nsID.o ../built/xpcom/Linux/dependencies/xpcom/base/nsID.depend: xpcom/base/nsError.h
+../built/xpcom/Linux/xpcom/base/nsID.o ../built/xpcom/Linux/dependencies/xpcom/base/nsID.depend: xpcom/base/nsID.cpp
+../built/xpcom/Linux/xpcom/base/nsID.o ../built/xpcom/Linux/dependencies/xpcom/base/nsID.depend: xpcom/base/nsID.h
+../built/xpcom/Linux/xpcom/base/nsID.o ../built/xpcom/Linux/dependencies/xpcom/base/nsID.depend: xpcom/base/nscore.h

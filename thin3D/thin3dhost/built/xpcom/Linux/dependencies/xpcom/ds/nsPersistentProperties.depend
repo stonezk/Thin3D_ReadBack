@@ -1,0 +1,8 @@
+../built/xpcom/Linux/xpcom/ds/nsPersistentProperties.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsPersistentProperties.depend: xpcom/ds/nsPersistentProperties.h
+../built/xpcom/Linux/xpcom/ds/nsPersistentProperties.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsPersistentProperties.depend: xpcom/ds/pldhash.h
+../built/xpcom/Linux/xpcom/ds/nsPersistentProperties.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsPersistentProperties.depend: xpcom/ds/nsCppSharedAllocator.h
+../built/xpcom/Linux/xpcom/ds/nsPersistentProperties.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsPersistentProperties.depend: xpcom/ds/nsEnumeratorUtils.h
+../built/xpcom/Linux/xpcom/ds/nsPersistentProperties.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsPersistentProperties.depend: xpcom/ds/nsPersistentProperties.cpp
+../built/xpcom/Linux/xpcom/ds/nsPersistentProperties.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsPersistentProperties.depend: xpcom/ds/nsCRT.h
+../built/xpcom/Linux/xpcom/ds/nsPersistentProperties.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsPersistentProperties.depend: xpcom/ds/nsProperties.h
+../built/xpcom/Linux/xpcom/ds/nsPersistentProperties.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsPersistentProperties.depend: xpcom/ds/nsHashtable.h

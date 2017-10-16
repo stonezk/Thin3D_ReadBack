@@ -1,0 +1,11 @@
+../built/xpcom/Linux/xpcom/io/nsDirectoryService.o ../built/xpcom/Linux/dependencies/xpcom/io/nsDirectoryService.depend: xpcom/io/nsLocalFileMac.h
+../built/xpcom/Linux/xpcom/io/nsDirectoryService.o ../built/xpcom/Linux/dependencies/xpcom/io/nsDirectoryService.depend: xpcom/io/nsLocalFileOS2.h
+../built/xpcom/Linux/xpcom/io/nsDirectoryService.o ../built/xpcom/Linux/dependencies/xpcom/io/nsDirectoryService.depend: xpcom/io/nsDirectoryService.cpp
+../built/xpcom/Linux/xpcom/io/nsDirectoryService.o ../built/xpcom/Linux/dependencies/xpcom/io/nsDirectoryService.depend: xpcom/io/nsLocalFileUnix.h
+../built/xpcom/Linux/xpcom/io/nsDirectoryService.o ../built/xpcom/Linux/dependencies/xpcom/io/nsDirectoryService.depend: xpcom/io/nsLocalFile.h
+../built/xpcom/Linux/xpcom/io/nsDirectoryService.o ../built/xpcom/Linux/dependencies/xpcom/io/nsDirectoryService.depend: xpcom/io/nsLocalFileOSX.h
+../built/xpcom/Linux/xpcom/io/nsDirectoryService.o ../built/xpcom/Linux/dependencies/xpcom/io/nsDirectoryService.depend: xpcom/io/SpecialSystemDirectory.h
+../built/xpcom/Linux/xpcom/io/nsDirectoryService.o ../built/xpcom/Linux/dependencies/xpcom/io/nsDirectoryService.depend: xpcom/io/nsLocalFileWin.h
+../built/xpcom/Linux/xpcom/io/nsDirectoryService.o ../built/xpcom/Linux/dependencies/xpcom/io/nsDirectoryService.depend: xpcom/io/nsDirectoryServiceDefs.h
+../built/xpcom/Linux/xpcom/io/nsDirectoryService.o ../built/xpcom/Linux/dependencies/xpcom/io/nsDirectoryService.depend: xpcom/io/nsAppFileLocationProvider.h
+../built/xpcom/Linux/xpcom/io/nsDirectoryService.o ../built/xpcom/Linux/dependencies/xpcom/io/nsDirectoryService.depend: xpcom/io/nsDirectoryService.h

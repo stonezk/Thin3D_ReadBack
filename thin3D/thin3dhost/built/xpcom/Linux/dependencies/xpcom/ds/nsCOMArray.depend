@@ -1,0 +1,3 @@
+../built/xpcom/Linux/xpcom/ds/nsCOMArray.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsCOMArray.depend: xpcom/ds/nsCOMArray.h
+../built/xpcom/Linux/xpcom/ds/nsCOMArray.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsCOMArray.depend: xpcom/ds/nsCOMArray.cpp
+../built/xpcom/Linux/xpcom/ds/nsCOMArray.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsCOMArray.depend: xpcom/ds/nsVoidArray.h

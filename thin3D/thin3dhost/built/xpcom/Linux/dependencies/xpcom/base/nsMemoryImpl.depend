@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/base/nsMemoryImpl.o ../built/xpcom/Linux/dependencies/xpcom/base/nsMemoryImpl.depend: xpcom/base/nsMemoryImpl.cpp
+../built/xpcom/Linux/xpcom/base/nsMemoryImpl.o ../built/xpcom/Linux/dependencies/xpcom/base/nsMemoryImpl.depend: xpcom/base/nsMemoryImpl.h

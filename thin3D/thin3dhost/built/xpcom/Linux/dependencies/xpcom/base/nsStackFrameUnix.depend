@@ -1,0 +1,5 @@
+../built/xpcom/Linux/xpcom/base/nsStackFrameUnix.o ../built/xpcom/Linux/dependencies/xpcom/base/nsStackFrameUnix.depend: xpcom/base/nsError.h
+../built/xpcom/Linux/xpcom/base/nsStackFrameUnix.o ../built/xpcom/Linux/dependencies/xpcom/base/nsStackFrameUnix.depend: xpcom/base/nsStackFrameUnix.h
+../built/xpcom/Linux/xpcom/base/nsStackFrameUnix.o ../built/xpcom/Linux/dependencies/xpcom/base/nsStackFrameUnix.depend: xpcom/base/nscore.h
+../built/xpcom/Linux/xpcom/base/nsStackFrameUnix.o ../built/xpcom/Linux/dependencies/xpcom/base/nsStackFrameUnix.depend: xpcom/base/nsStackFrameUnix.cpp
+../built/xpcom/Linux/xpcom/base/nsStackFrameUnix.o ../built/xpcom/Linux/dependencies/xpcom/base/nsStackFrameUnix.depend: ./xpcom-config.h

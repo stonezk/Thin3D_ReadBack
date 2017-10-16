@@ -1,0 +1,1 @@
+../built/xpcom/Linux/nsprpub/pr/src/threads/prrwlock.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/threads/prrwlock.depend: nsprpub/pr/src/threads/prrwlock.c

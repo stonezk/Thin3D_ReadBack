@@ -1,0 +1,1 @@
+../built/xpcom/Linux/nsprpub/pr/src/pthreads/ptsynch.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/pthreads/ptsynch.depend: nsprpub/pr/src/pthreads/ptsynch.c

@@ -1,0 +1,5 @@
+../built/xpcom/Linux/xpcom/ds/nsCheapSets.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsCheapSets.depend: xpcom/ds/nsCheapSets.cpp
+../built/xpcom/Linux/xpcom/ds/nsCheapSets.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsCheapSets.depend: xpcom/ds/pldhash.h
+../built/xpcom/Linux/xpcom/ds/nsCheapSets.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsCheapSets.depend: xpcom/ds/nsDoubleHashtable.h
+../built/xpcom/Linux/xpcom/ds/nsCheapSets.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsCheapSets.depend: xpcom/ds/nsCheapSets.h
+../built/xpcom/Linux/xpcom/ds/nsCheapSets.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsCheapSets.depend: xpcom/ds/nsHashSets.h

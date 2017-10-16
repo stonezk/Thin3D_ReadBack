@@ -1,0 +1,11 @@
+../built/xpcom/Linux/xpcom/glue/nsGenericFactory.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsGenericFactory.depend: xpcom/glue/nsTraceRefcnt.h
+../built/xpcom/Linux/xpcom/glue/nsGenericFactory.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsGenericFactory.depend: xpcom/glue/nsMemory.h
+../built/xpcom/Linux/xpcom/glue/nsGenericFactory.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsGenericFactory.depend: ./dependentLibs.h
+../built/xpcom/Linux/xpcom/glue/nsGenericFactory.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsGenericFactory.depend: xpcom/glue/nsISupportsUtils.h
+../built/xpcom/Linux/xpcom/glue/nsGenericFactory.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsGenericFactory.depend: xpcom/glue/nsGenericFactory.h
+../built/xpcom/Linux/xpcom/glue/nsGenericFactory.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsGenericFactory.depend: xpcom/glue/nsDebug.h
+../built/xpcom/Linux/xpcom/glue/nsGenericFactory.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsGenericFactory.depend: xpcom/glue/nsCOMPtr.h
+../built/xpcom/Linux/xpcom/glue/nsGenericFactory.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsGenericFactory.depend: xpcom/glue/nsISupportsImpl.h
+../built/xpcom/Linux/xpcom/glue/nsGenericFactory.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsGenericFactory.depend: xpcom/glue/nsGenericFactory.cpp
+../built/xpcom/Linux/xpcom/glue/nsGenericFactory.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsGenericFactory.depend: xpcom/glue/nsIGenericFactory.h
+../built/xpcom/Linux/xpcom/glue/nsGenericFactory.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsGenericFactory.depend: xpcom/glue/nsIInterfaceRequestorUtils.h

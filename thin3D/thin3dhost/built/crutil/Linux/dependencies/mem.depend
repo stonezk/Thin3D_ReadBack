@@ -1,0 +1,11 @@
+../built/crutil/Linux/mem.o ../built/crutil/Linux/dependencies/mem.depend: ../include/iprt/assert.h
+../built/crutil/Linux/mem.o ../built/crutil/Linux/dependencies/mem.depend: ../include/iprt/stdarg.h
+../built/crutil/Linux/mem.o ../built/crutil/Linux/dependencies/mem.depend: ../include/iprt/stdint.h
+../built/crutil/Linux/mem.o ../built/crutil/Linux/dependencies/mem.depend: mem.c
+../built/crutil/Linux/mem.o ../built/crutil/Linux/dependencies/mem.depend: ../include/iprt/cdefs.h
+../built/crutil/Linux/mem.o ../built/crutil/Linux/dependencies/mem.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/crutil/Linux/mem.o ../built/crutil/Linux/dependencies/mem.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/crutil/Linux/mem.o ../built/crutil/Linux/dependencies/mem.depend: ../include/cr_error.h
+../built/crutil/Linux/mem.o ../built/crutil/Linux/dependencies/mem.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/crutil/Linux/mem.o ../built/crutil/Linux/dependencies/mem.depend: ../include/cr_mem.h
+../built/crutil/Linux/mem.o ../built/crutil/Linux/dependencies/mem.depend: ../include/iprt/types.h

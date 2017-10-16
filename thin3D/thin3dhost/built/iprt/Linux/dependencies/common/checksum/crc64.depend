@@ -1,0 +1,9 @@
+../built/iprt/Linux/common/checksum/crc64.o ../built/iprt/Linux/dependencies/common/checksum/crc64.depend: ../include/iprt/crc.h
+../built/iprt/Linux/common/checksum/crc64.o ../built/iprt/Linux/dependencies/common/checksum/crc64.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/checksum/crc64.o ../built/iprt/Linux/dependencies/common/checksum/crc64.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/checksum/crc64.o ../built/iprt/Linux/dependencies/common/checksum/crc64.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/checksum/crc64.o ../built/iprt/Linux/dependencies/common/checksum/crc64.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/checksum/crc64.o ../built/iprt/Linux/dependencies/common/checksum/crc64.depend: common/checksum/crc64.cpp
+../built/iprt/Linux/common/checksum/crc64.o ../built/iprt/Linux/dependencies/common/checksum/crc64.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/checksum/crc64.o ../built/iprt/Linux/dependencies/common/checksum/crc64.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/checksum/crc64.o ../built/iprt/Linux/dependencies/common/checksum/crc64.depend: ../include/iprt/types.h

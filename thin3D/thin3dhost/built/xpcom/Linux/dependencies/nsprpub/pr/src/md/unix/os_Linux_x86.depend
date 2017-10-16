@@ -1,0 +1,1 @@
+../built/xpcom/Linux/nsprpub/pr/src/md/unix/os_Linux_x86.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/md/unix/os_Linux_x86.depend: nsprpub/pr/src/md/unix/os_Linux_x86.s

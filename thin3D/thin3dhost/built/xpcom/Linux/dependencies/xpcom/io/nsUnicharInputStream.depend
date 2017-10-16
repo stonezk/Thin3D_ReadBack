@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/io/nsUnicharInputStream.o ../built/xpcom/Linux/dependencies/xpcom/io/nsUnicharInputStream.depend: xpcom/io/nsIUnicharInputStream.h
+../built/xpcom/Linux/xpcom/io/nsUnicharInputStream.o ../built/xpcom/Linux/dependencies/xpcom/io/nsUnicharInputStream.depend: xpcom/io/nsUnicharInputStream.cpp

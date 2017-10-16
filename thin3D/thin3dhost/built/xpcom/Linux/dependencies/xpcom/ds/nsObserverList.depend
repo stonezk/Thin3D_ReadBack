@@ -1,0 +1,3 @@
+../built/xpcom/Linux/xpcom/ds/nsObserverList.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsObserverList.depend: xpcom/ds/nsEnumeratorUtils.h
+../built/xpcom/Linux/xpcom/ds/nsObserverList.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsObserverList.depend: xpcom/ds/nsObserverList.h
+../built/xpcom/Linux/xpcom/ds/nsObserverList.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsObserverList.depend: xpcom/ds/nsObserverList.cpp

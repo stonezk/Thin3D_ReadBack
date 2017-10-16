@@ -1,0 +1,7 @@
+../built/xpcom/Linux/xpcom/glue/nsWeakReference.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsWeakReference.depend: xpcom/glue/nsISupportsUtils.h
+../built/xpcom/Linux/xpcom/glue/nsWeakReference.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsWeakReference.depend: xpcom/glue/nsDebug.h
+../built/xpcom/Linux/xpcom/glue/nsWeakReference.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsWeakReference.depend: xpcom/glue/nsCOMPtr.h
+../built/xpcom/Linux/xpcom/glue/nsWeakReference.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsWeakReference.depend: xpcom/glue/nsWeakReference.cpp
+../built/xpcom/Linux/xpcom/glue/nsWeakReference.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsWeakReference.depend: xpcom/glue/nsISupportsImpl.h
+../built/xpcom/Linux/xpcom/glue/nsWeakReference.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsWeakReference.depend: xpcom/glue/nsTraceRefcnt.h
+../built/xpcom/Linux/xpcom/glue/nsWeakReference.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsWeakReference.depend: xpcom/glue/nsWeakReference.h

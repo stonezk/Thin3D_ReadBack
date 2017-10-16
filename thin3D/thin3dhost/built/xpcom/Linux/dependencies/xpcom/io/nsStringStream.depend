@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/io/nsStringStream.o ../built/xpcom/Linux/dependencies/xpcom/io/nsStringStream.depend: xpcom/io/nsStringStream.h
+../built/xpcom/Linux/xpcom/io/nsStringStream.o ../built/xpcom/Linux/dependencies/xpcom/io/nsStringStream.depend: xpcom/io/nsStringStream.cpp

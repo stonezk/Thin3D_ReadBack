@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/ds/nsTimelineService.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsTimelineService.depend: xpcom/ds/nsTimelineService.cpp
+../built/xpcom/Linux/xpcom/ds/nsTimelineService.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsTimelineService.depend: xpcom/ds/nsTimelineService.h

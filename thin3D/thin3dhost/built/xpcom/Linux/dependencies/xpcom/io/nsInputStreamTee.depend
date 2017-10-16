@@ -1,0 +1,1 @@
+../built/xpcom/Linux/xpcom/io/nsInputStreamTee.o ../built/xpcom/Linux/dependencies/xpcom/io/nsInputStreamTee.depend: xpcom/io/nsInputStreamTee.cpp

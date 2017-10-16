@@ -1,0 +1,5 @@
+../built/xpcom/Linux/xpcom/ds/nsStaticNameTable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsStaticNameTable.depend: xpcom/ds/pldhash.h
+../built/xpcom/Linux/xpcom/ds/nsStaticNameTable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsStaticNameTable.depend: xpcom/ds/nsCRT.h
+../built/xpcom/Linux/xpcom/ds/nsStaticNameTable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsStaticNameTable.depend: xpcom/ds/nsCppSharedAllocator.h
+../built/xpcom/Linux/xpcom/ds/nsStaticNameTable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsStaticNameTable.depend: xpcom/ds/nsStaticNameTable.h
+../built/xpcom/Linux/xpcom/ds/nsStaticNameTable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsStaticNameTable.depend: xpcom/ds/nsStaticNameTable.cpp

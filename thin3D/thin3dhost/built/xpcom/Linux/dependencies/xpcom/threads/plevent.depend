@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/threads/plevent.o ../built/xpcom/Linux/dependencies/xpcom/threads/plevent.depend: xpcom/threads/plevent.h
+../built/xpcom/Linux/xpcom/threads/plevent.o ../built/xpcom/Linux/dependencies/xpcom/threads/plevent.depend: xpcom/threads/plevent.c

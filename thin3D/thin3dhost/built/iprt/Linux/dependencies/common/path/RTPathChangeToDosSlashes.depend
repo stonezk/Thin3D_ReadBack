@@ -1,0 +1,11 @@
+../built/iprt/Linux/common/path/RTPathChangeToDosSlashes.o ../built/iprt/Linux/dependencies/common/path/RTPathChangeToDosSlashes.depend: ../include/iprt/path.h
+../built/iprt/Linux/common/path/RTPathChangeToDosSlashes.o ../built/iprt/Linux/dependencies/common/path/RTPathChangeToDosSlashes.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/path/RTPathChangeToDosSlashes.o ../built/iprt/Linux/dependencies/common/path/RTPathChangeToDosSlashes.depend: ../include/iprt/fs.h
+../built/iprt/Linux/common/path/RTPathChangeToDosSlashes.o ../built/iprt/Linux/dependencies/common/path/RTPathChangeToDosSlashes.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/path/RTPathChangeToDosSlashes.o ../built/iprt/Linux/dependencies/common/path/RTPathChangeToDosSlashes.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/path/RTPathChangeToDosSlashes.o ../built/iprt/Linux/dependencies/common/path/RTPathChangeToDosSlashes.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/path/RTPathChangeToDosSlashes.o ../built/iprt/Linux/dependencies/common/path/RTPathChangeToDosSlashes.depend: common/path/RTPathChangeToDosSlashes.cpp
+../built/iprt/Linux/common/path/RTPathChangeToDosSlashes.o ../built/iprt/Linux/dependencies/common/path/RTPathChangeToDosSlashes.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/path/RTPathChangeToDosSlashes.o ../built/iprt/Linux/dependencies/common/path/RTPathChangeToDosSlashes.depend: ../include/iprt/time.h
+../built/iprt/Linux/common/path/RTPathChangeToDosSlashes.o ../built/iprt/Linux/dependencies/common/path/RTPathChangeToDosSlashes.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/path/RTPathChangeToDosSlashes.o ../built/iprt/Linux/dependencies/common/path/RTPathChangeToDosSlashes.depend: ../include/iprt/types.h

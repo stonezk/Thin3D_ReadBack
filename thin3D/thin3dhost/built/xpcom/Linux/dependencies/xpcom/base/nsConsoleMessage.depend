@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/base/nsConsoleMessage.o ../built/xpcom/Linux/dependencies/xpcom/base/nsConsoleMessage.depend: xpcom/base/nsConsoleMessage.h
+../built/xpcom/Linux/xpcom/base/nsConsoleMessage.o ../built/xpcom/Linux/dependencies/xpcom/base/nsConsoleMessage.depend: xpcom/base/nsConsoleMessage.cpp

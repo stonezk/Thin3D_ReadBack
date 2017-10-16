@@ -1,0 +1,6 @@
+../built/xpcom/Linux/xpcom/ds/nsTHashtable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsTHashtable.depend: xpcom/ds/nsTHashtable.h
+../built/xpcom/Linux/xpcom/ds/nsTHashtable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsTHashtable.depend: xpcom/ds/pldhash.h
+../built/xpcom/Linux/xpcom/ds/nsTHashtable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsTHashtable.depend: xpcom/ds/nsCppSharedAllocator.h
+../built/xpcom/Linux/xpcom/ds/nsTHashtable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsTHashtable.depend: xpcom/ds/nsCRT.h
+../built/xpcom/Linux/xpcom/ds/nsTHashtable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsTHashtable.depend: xpcom/ds/nsHashKeys.h
+../built/xpcom/Linux/xpcom/ds/nsTHashtable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsTHashtable.depend: xpcom/ds/nsTHashtable.cpp

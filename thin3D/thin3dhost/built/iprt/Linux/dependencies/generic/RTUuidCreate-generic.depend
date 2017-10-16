@@ -1,0 +1,12 @@
+../built/iprt/Linux/generic/RTUuidCreate-generic.o ../built/iprt/Linux/dependencies/generic/RTUuidCreate-generic.depend: ../include/iprt/assert.h
+../built/iprt/Linux/generic/RTUuidCreate-generic.o ../built/iprt/Linux/dependencies/generic/RTUuidCreate-generic.depend: ../include/iprt/err.h
+../built/iprt/Linux/generic/RTUuidCreate-generic.o ../built/iprt/Linux/dependencies/generic/RTUuidCreate-generic.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/generic/RTUuidCreate-generic.o ../built/iprt/Linux/dependencies/generic/RTUuidCreate-generic.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/generic/RTUuidCreate-generic.o ../built/iprt/Linux/dependencies/generic/RTUuidCreate-generic.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/generic/RTUuidCreate-generic.o ../built/iprt/Linux/dependencies/generic/RTUuidCreate-generic.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/generic/RTUuidCreate-generic.o ../built/iprt/Linux/dependencies/generic/RTUuidCreate-generic.depend: ../include/iprt/rand.h
+../built/iprt/Linux/generic/RTUuidCreate-generic.o ../built/iprt/Linux/dependencies/generic/RTUuidCreate-generic.depend: ../include/iprt/uuid.h
+../built/iprt/Linux/generic/RTUuidCreate-generic.o ../built/iprt/Linux/dependencies/generic/RTUuidCreate-generic.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/generic/RTUuidCreate-generic.o ../built/iprt/Linux/dependencies/generic/RTUuidCreate-generic.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/generic/RTUuidCreate-generic.o ../built/iprt/Linux/dependencies/generic/RTUuidCreate-generic.depend: generic/RTUuidCreate-generic.cpp
+../built/iprt/Linux/generic/RTUuidCreate-generic.o ../built/iprt/Linux/dependencies/generic/RTUuidCreate-generic.depend: ../include/iprt/types.h

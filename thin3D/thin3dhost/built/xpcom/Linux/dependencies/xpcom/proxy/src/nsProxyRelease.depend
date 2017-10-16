@@ -1,0 +1,1 @@
+../built/xpcom/Linux/xpcom/proxy/src/nsProxyRelease.o ../built/xpcom/Linux/dependencies/xpcom/proxy/src/nsProxyRelease.depend: xpcom/proxy/src/nsProxyRelease.cpp

@@ -1,0 +1,7 @@
+../built/xpcom/Linux/xpcom/ds/nsAtomTable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsAtomTable.depend: xpcom/ds/nsStaticAtom.h
+../built/xpcom/Linux/xpcom/ds/nsAtomTable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsAtomTable.depend: xpcom/ds/nsAtomTable.cpp
+../built/xpcom/Linux/xpcom/ds/nsAtomTable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsAtomTable.depend: xpcom/ds/nsAtomTable.h
+../built/xpcom/Linux/xpcom/ds/nsAtomTable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsAtomTable.depend: xpcom/ds/pldhash.h
+../built/xpcom/Linux/xpcom/ds/nsAtomTable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsAtomTable.depend: xpcom/ds/nsCppSharedAllocator.h
+../built/xpcom/Linux/xpcom/ds/nsAtomTable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsAtomTable.depend: xpcom/ds/nsCRT.h
+../built/xpcom/Linux/xpcom/ds/nsAtomTable.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsAtomTable.depend: xpcom/ds/nsVoidArray.h

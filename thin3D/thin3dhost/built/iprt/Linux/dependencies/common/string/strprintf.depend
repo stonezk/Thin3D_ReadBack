@@ -1,0 +1,12 @@
+../built/iprt/Linux/common/string/strprintf.o ../built/iprt/Linux/dependencies/common/string/strprintf.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/string/strprintf.o ../built/iprt/Linux/dependencies/common/string/strprintf.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/string/strprintf.o ../built/iprt/Linux/dependencies/common/string/strprintf.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/string/strprintf.o ../built/iprt/Linux/dependencies/common/string/strprintf.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/string/strprintf.o ../built/iprt/Linux/dependencies/common/string/strprintf.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/string/strprintf.o ../built/iprt/Linux/dependencies/common/string/strprintf.depend: common/string/strprintf.cpp
+../built/iprt/Linux/common/string/strprintf.o ../built/iprt/Linux/dependencies/common/string/strprintf.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/string/strprintf.o ../built/iprt/Linux/dependencies/common/string/strprintf.depend: ../include/iprt/latin1.h
+../built/iprt/Linux/common/string/strprintf.o ../built/iprt/Linux/dependencies/common/string/strprintf.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/string/strprintf.o ../built/iprt/Linux/dependencies/common/string/strprintf.depend: ../include/iprt/string.h
+../built/iprt/Linux/common/string/strprintf.o ../built/iprt/Linux/dependencies/common/string/strprintf.depend: ../include/iprt/utf16.h
+../built/iprt/Linux/common/string/strprintf.o ../built/iprt/Linux/dependencies/common/string/strprintf.depend: ../include/iprt/types.h

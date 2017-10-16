@@ -1,0 +1,13 @@
+../built/xpcom/Linux/ipc/ipcd/client/src/ipcdclient.o ../built/xpcom/Linux/dependencies/ipc/ipcd/client/src/ipcdclient.depend: ../include/iprt/assert.h
+../built/xpcom/Linux/ipc/ipcd/client/src/ipcdclient.o ../built/xpcom/Linux/dependencies/ipc/ipcd/client/src/ipcdclient.depend: ../include/iprt/stdarg.h
+../built/xpcom/Linux/ipc/ipcd/client/src/ipcdclient.o ../built/xpcom/Linux/dependencies/ipc/ipcd/client/src/ipcdclient.depend: ../include/iprt/stdint.h
+../built/xpcom/Linux/ipc/ipcd/client/src/ipcdclient.o ../built/xpcom/Linux/dependencies/ipc/ipcd/client/src/ipcdclient.depend: ipc/ipcd/client/src/ipcConnection.h
+../built/xpcom/Linux/ipc/ipcd/client/src/ipcdclient.o ../built/xpcom/Linux/dependencies/ipc/ipcd/client/src/ipcdclient.depend: ../include/iprt/lockvalidator.h
+../built/xpcom/Linux/ipc/ipcd/client/src/ipcdclient.o ../built/xpcom/Linux/dependencies/ipc/ipcd/client/src/ipcdclient.depend: ../include/iprt/cdefs.h
+../built/xpcom/Linux/ipc/ipcd/client/src/ipcdclient.o ../built/xpcom/Linux/dependencies/ipc/ipcd/client/src/ipcdclient.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/xpcom/Linux/ipc/ipcd/client/src/ipcdclient.o ../built/xpcom/Linux/dependencies/ipc/ipcd/client/src/ipcdclient.depend: ../include/iprt/thread.h
+../built/xpcom/Linux/ipc/ipcd/client/src/ipcdclient.o ../built/xpcom/Linux/dependencies/ipc/ipcd/client/src/ipcdclient.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/xpcom/Linux/ipc/ipcd/client/src/ipcdclient.o ../built/xpcom/Linux/dependencies/ipc/ipcd/client/src/ipcdclient.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/xpcom/Linux/ipc/ipcd/client/src/ipcdclient.o ../built/xpcom/Linux/dependencies/ipc/ipcd/client/src/ipcdclient.depend: ipc/ipcd/client/src/ipcdclient.cpp
+../built/xpcom/Linux/ipc/ipcd/client/src/ipcdclient.o ../built/xpcom/Linux/dependencies/ipc/ipcd/client/src/ipcdclient.depend: ../include/iprt/critsect.h
+../built/xpcom/Linux/ipc/ipcd/client/src/ipcdclient.o ../built/xpcom/Linux/dependencies/ipc/ipcd/client/src/ipcdclient.depend: ../include/iprt/types.h

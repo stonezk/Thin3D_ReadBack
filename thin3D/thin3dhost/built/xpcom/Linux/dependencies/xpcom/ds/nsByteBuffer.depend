@@ -1,0 +1,5 @@
+../built/xpcom/Linux/xpcom/ds/nsByteBuffer.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsByteBuffer.depend: xpcom/ds/nsCRT.h
+../built/xpcom/Linux/xpcom/ds/nsByteBuffer.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsByteBuffer.depend: xpcom/ds/nsByteBuffer.cpp
+../built/xpcom/Linux/xpcom/ds/nsByteBuffer.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsByteBuffer.depend: xpcom/ds/nsIByteBuffer.h
+../built/xpcom/Linux/xpcom/ds/nsByteBuffer.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsByteBuffer.depend: xpcom/ds/nsCppSharedAllocator.h
+../built/xpcom/Linux/xpcom/ds/nsByteBuffer.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsByteBuffer.depend: xpcom/ds/nsByteBuffer.h

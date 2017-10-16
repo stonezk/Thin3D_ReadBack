@@ -1,0 +1,10 @@
+../built/xpcom/Linux/xpcom/string/src/nsSubstring.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsSubstring.depend: ../include/iprt/stdarg.h
+../built/xpcom/Linux/xpcom/string/src/nsSubstring.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsSubstring.depend: ../include/iprt/mem.h
+../built/xpcom/Linux/xpcom/string/src/nsSubstring.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsSubstring.depend: xpcom/string/src/nsSubstring.cpp
+../built/xpcom/Linux/xpcom/string/src/nsSubstring.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsSubstring.depend: xpcom/string/src/nsTSubstring.cpp
+../built/xpcom/Linux/xpcom/string/src/nsSubstring.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsSubstring.depend: ../include/iprt/cdefs.h
+../built/xpcom/Linux/xpcom/string/src/nsSubstring.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsSubstring.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/xpcom/Linux/xpcom/string/src/nsSubstring.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsSubstring.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/xpcom/Linux/xpcom/string/src/nsSubstring.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsSubstring.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/xpcom/Linux/xpcom/string/src/nsSubstring.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsSubstring.depend: ../include/iprt/stdint.h
+../built/xpcom/Linux/xpcom/string/src/nsSubstring.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsSubstring.depend: ../include/iprt/types.h

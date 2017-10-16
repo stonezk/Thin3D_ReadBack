@@ -1,0 +1,11 @@
+../built/iprt/Linux/common/path/RTPathHasExt.o ../built/iprt/Linux/dependencies/common/path/RTPathHasExt.depend: ../include/iprt/path.h
+../built/iprt/Linux/common/path/RTPathHasExt.o ../built/iprt/Linux/dependencies/common/path/RTPathHasExt.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/path/RTPathHasExt.o ../built/iprt/Linux/dependencies/common/path/RTPathHasExt.depend: ../include/iprt/fs.h
+../built/iprt/Linux/common/path/RTPathHasExt.o ../built/iprt/Linux/dependencies/common/path/RTPathHasExt.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/path/RTPathHasExt.o ../built/iprt/Linux/dependencies/common/path/RTPathHasExt.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/path/RTPathHasExt.o ../built/iprt/Linux/dependencies/common/path/RTPathHasExt.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/path/RTPathHasExt.o ../built/iprt/Linux/dependencies/common/path/RTPathHasExt.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/path/RTPathHasExt.o ../built/iprt/Linux/dependencies/common/path/RTPathHasExt.depend: ../include/iprt/time.h
+../built/iprt/Linux/common/path/RTPathHasExt.o ../built/iprt/Linux/dependencies/common/path/RTPathHasExt.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/path/RTPathHasExt.o ../built/iprt/Linux/dependencies/common/path/RTPathHasExt.depend: common/path/RTPathHasExt.cpp
+../built/iprt/Linux/common/path/RTPathHasExt.o ../built/iprt/Linux/dependencies/common/path/RTPathHasExt.depend: ../include/iprt/types.h

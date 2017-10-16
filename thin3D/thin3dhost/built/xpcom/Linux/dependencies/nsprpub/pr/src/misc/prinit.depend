@@ -1,0 +1,9 @@
+../built/xpcom/Linux/nsprpub/pr/src/misc/prinit.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/misc/prinit.depend: ../include/iprt/stdarg.h
+../built/xpcom/Linux/nsprpub/pr/src/misc/prinit.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/misc/prinit.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/xpcom/Linux/nsprpub/pr/src/misc/prinit.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/misc/prinit.depend: ../include/iprt/stdint.h
+../built/xpcom/Linux/nsprpub/pr/src/misc/prinit.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/misc/prinit.depend: ../include/iprt/cdefs.h
+../built/xpcom/Linux/nsprpub/pr/src/misc/prinit.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/misc/prinit.depend: nsprpub/pr/src/misc/prinit.c
+../built/xpcom/Linux/nsprpub/pr/src/misc/prinit.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/misc/prinit.depend: ../include/iprt/initterm.h
+../built/xpcom/Linux/nsprpub/pr/src/misc/prinit.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/misc/prinit.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/xpcom/Linux/nsprpub/pr/src/misc/prinit.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/misc/prinit.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/xpcom/Linux/nsprpub/pr/src/misc/prinit.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/misc/prinit.depend: ../include/iprt/types.h

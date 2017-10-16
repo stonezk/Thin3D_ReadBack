@@ -1,0 +1,3 @@
+../built/xpcom/Linux/xpcom/io/nsNativeCharsetUtils.o ../built/xpcom/Linux/dependencies/xpcom/io/nsNativeCharsetUtils.depend: ./xpcom-private.h
+../built/xpcom/Linux/xpcom/io/nsNativeCharsetUtils.o ../built/xpcom/Linux/dependencies/xpcom/io/nsNativeCharsetUtils.depend: xpcom/io/nsNativeCharsetUtils.cpp
+../built/xpcom/Linux/xpcom/io/nsNativeCharsetUtils.o ../built/xpcom/Linux/dependencies/xpcom/io/nsNativeCharsetUtils.depend: xpcom/io/nsNativeCharsetUtils.h

@@ -1,0 +1,2 @@
+../built/xpcom/Linux/nsprpub/lib/ds/plhash.o ../built/xpcom/Linux/dependencies/nsprpub/lib/ds/plhash.depend: nsprpub/lib/ds/plhash.c
+../built/xpcom/Linux/nsprpub/lib/ds/plhash.o ../built/xpcom/Linux/dependencies/nsprpub/lib/ds/plhash.depend: nsprpub/lib/ds/plhash.h

@@ -1,0 +1,1 @@
+../built/xpcom/Linux/nsprpub/pr/src/memory/prshma.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/memory/prshma.depend: nsprpub/pr/src/memory/prshma.c

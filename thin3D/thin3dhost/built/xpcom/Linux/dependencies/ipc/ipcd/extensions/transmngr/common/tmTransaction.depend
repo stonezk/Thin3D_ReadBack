@@ -1,0 +1,11 @@
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmTransaction.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmTransaction.depend: ../include/iprt/stdarg.h
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmTransaction.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmTransaction.depend: ../include/iprt/mem.h
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmTransaction.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmTransaction.depend: ../include/iprt/stdint.h
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmTransaction.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmTransaction.depend: ipc/ipcd/extensions/transmngr/common/tmTransaction.cpp
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmTransaction.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmTransaction.depend: ../include/iprt/cdefs.h
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmTransaction.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmTransaction.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmTransaction.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmTransaction.depend: ipc/ipcd/extensions/transmngr/common/tmTransaction.h
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmTransaction.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmTransaction.depend: ipc/ipcd/extensions/transmngr/common/tmUtils.h
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmTransaction.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmTransaction.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmTransaction.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmTransaction.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/xpcom/Linux/ipc/ipcd/extensions/transmngr/common/tmTransaction.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/transmngr/common/tmTransaction.depend: ../include/iprt/types.h

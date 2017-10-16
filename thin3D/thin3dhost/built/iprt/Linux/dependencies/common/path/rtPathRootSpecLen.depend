@@ -1,0 +1,13 @@
+../built/iprt/Linux/common/path/rtPathRootSpecLen.o ../built/iprt/Linux/dependencies/common/path/rtPathRootSpecLen.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/path/rtPathRootSpecLen.o ../built/iprt/Linux/dependencies/common/path/rtPathRootSpecLen.depend: ../include/iprt/path.h
+../built/iprt/Linux/common/path/rtPathRootSpecLen.o ../built/iprt/Linux/dependencies/common/path/rtPathRootSpecLen.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/path/rtPathRootSpecLen.o ../built/iprt/Linux/dependencies/common/path/rtPathRootSpecLen.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/path/rtPathRootSpecLen.o ../built/iprt/Linux/dependencies/common/path/rtPathRootSpecLen.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/path/rtPathRootSpecLen.o ../built/iprt/Linux/dependencies/common/path/rtPathRootSpecLen.depend: ../include/iprt/fs.h
+../built/iprt/Linux/common/path/rtPathRootSpecLen.o ../built/iprt/Linux/dependencies/common/path/rtPathRootSpecLen.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/path/rtPathRootSpecLen.o ../built/iprt/Linux/dependencies/common/path/rtPathRootSpecLen.depend: common/path/rtPathRootSpecLen.cpp
+../built/iprt/Linux/common/path/rtPathRootSpecLen.o ../built/iprt/Linux/dependencies/common/path/rtPathRootSpecLen.depend: ../include/iprt/ctype.h
+../built/iprt/Linux/common/path/rtPathRootSpecLen.o ../built/iprt/Linux/dependencies/common/path/rtPathRootSpecLen.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/path/rtPathRootSpecLen.o ../built/iprt/Linux/dependencies/common/path/rtPathRootSpecLen.depend: ../include/iprt/time.h
+../built/iprt/Linux/common/path/rtPathRootSpecLen.o ../built/iprt/Linux/dependencies/common/path/rtPathRootSpecLen.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/path/rtPathRootSpecLen.o ../built/iprt/Linux/dependencies/common/path/rtPathRootSpecLen.depend: ../include/iprt/types.h

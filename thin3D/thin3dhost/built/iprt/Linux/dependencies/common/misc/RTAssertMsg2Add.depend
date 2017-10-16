@@ -1,0 +1,9 @@
+../built/iprt/Linux/common/misc/RTAssertMsg2Add.o ../built/iprt/Linux/dependencies/common/misc/RTAssertMsg2Add.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/misc/RTAssertMsg2Add.o ../built/iprt/Linux/dependencies/common/misc/RTAssertMsg2Add.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/misc/RTAssertMsg2Add.o ../built/iprt/Linux/dependencies/common/misc/RTAssertMsg2Add.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/misc/RTAssertMsg2Add.o ../built/iprt/Linux/dependencies/common/misc/RTAssertMsg2Add.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/misc/RTAssertMsg2Add.o ../built/iprt/Linux/dependencies/common/misc/RTAssertMsg2Add.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/misc/RTAssertMsg2Add.o ../built/iprt/Linux/dependencies/common/misc/RTAssertMsg2Add.depend: common/misc/RTAssertMsg2Add.cpp
+../built/iprt/Linux/common/misc/RTAssertMsg2Add.o ../built/iprt/Linux/dependencies/common/misc/RTAssertMsg2Add.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/misc/RTAssertMsg2Add.o ../built/iprt/Linux/dependencies/common/misc/RTAssertMsg2Add.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/misc/RTAssertMsg2Add.o ../built/iprt/Linux/dependencies/common/misc/RTAssertMsg2Add.depend: ../include/iprt/types.h

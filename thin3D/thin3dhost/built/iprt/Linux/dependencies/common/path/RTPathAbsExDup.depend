@@ -1,0 +1,17 @@
+../built/iprt/Linux/common/path/RTPathAbsExDup.o ../built/iprt/Linux/dependencies/common/path/RTPathAbsExDup.depend: common/path/RTPathAbsExDup.cpp
+../built/iprt/Linux/common/path/RTPathAbsExDup.o ../built/iprt/Linux/dependencies/common/path/RTPathAbsExDup.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/path/RTPathAbsExDup.o ../built/iprt/Linux/dependencies/common/path/RTPathAbsExDup.depend: ../include/iprt/err.h
+../built/iprt/Linux/common/path/RTPathAbsExDup.o ../built/iprt/Linux/dependencies/common/path/RTPathAbsExDup.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/path/RTPathAbsExDup.o ../built/iprt/Linux/dependencies/common/path/RTPathAbsExDup.depend: ../include/iprt/param.h
+../built/iprt/Linux/common/path/RTPathAbsExDup.o ../built/iprt/Linux/dependencies/common/path/RTPathAbsExDup.depend: ../include/iprt/path.h
+../built/iprt/Linux/common/path/RTPathAbsExDup.o ../built/iprt/Linux/dependencies/common/path/RTPathAbsExDup.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/path/RTPathAbsExDup.o ../built/iprt/Linux/dependencies/common/path/RTPathAbsExDup.depend: ../include/iprt/fs.h
+../built/iprt/Linux/common/path/RTPathAbsExDup.o ../built/iprt/Linux/dependencies/common/path/RTPathAbsExDup.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/path/RTPathAbsExDup.o ../built/iprt/Linux/dependencies/common/path/RTPathAbsExDup.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/path/RTPathAbsExDup.o ../built/iprt/Linux/dependencies/common/path/RTPathAbsExDup.depend: ../include/iprt/time.h
+../built/iprt/Linux/common/path/RTPathAbsExDup.o ../built/iprt/Linux/dependencies/common/path/RTPathAbsExDup.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/path/RTPathAbsExDup.o ../built/iprt/Linux/dependencies/common/path/RTPathAbsExDup.depend: ../include/iprt/latin1.h
+../built/iprt/Linux/common/path/RTPathAbsExDup.o ../built/iprt/Linux/dependencies/common/path/RTPathAbsExDup.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/path/RTPathAbsExDup.o ../built/iprt/Linux/dependencies/common/path/RTPathAbsExDup.depend: ../include/iprt/string.h
+../built/iprt/Linux/common/path/RTPathAbsExDup.o ../built/iprt/Linux/dependencies/common/path/RTPathAbsExDup.depend: ../include/iprt/utf16.h
+../built/iprt/Linux/common/path/RTPathAbsExDup.o ../built/iprt/Linux/dependencies/common/path/RTPathAbsExDup.depend: ../include/iprt/types.h

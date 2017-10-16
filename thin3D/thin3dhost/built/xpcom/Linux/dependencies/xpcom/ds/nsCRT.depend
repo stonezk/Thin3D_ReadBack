@@ -1,0 +1,3 @@
+../built/xpcom/Linux/xpcom/ds/nsCRT.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsCRT.depend: xpcom/ds/nsCRT.h
+../built/xpcom/Linux/xpcom/ds/nsCRT.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsCRT.depend: xpcom/ds/nsCRT.cpp
+../built/xpcom/Linux/xpcom/ds/nsCRT.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsCRT.depend: xpcom/ds/nsCppSharedAllocator.h

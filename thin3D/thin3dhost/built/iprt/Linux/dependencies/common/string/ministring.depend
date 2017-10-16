@@ -1,0 +1,16 @@
+../built/iprt/Linux/common/string/ministring.o ../built/iprt/Linux/dependencies/common/string/ministring.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/string/ministring.o ../built/iprt/Linux/dependencies/common/string/ministring.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/string/ministring.o ../built/iprt/Linux/dependencies/common/string/ministring.depend: ../include/iprt/mem.h
+../built/iprt/Linux/common/string/ministring.o ../built/iprt/Linux/dependencies/common/string/ministring.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/string/ministring.o ../built/iprt/Linux/dependencies/common/string/ministring.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/string/ministring.o ../built/iprt/Linux/dependencies/common/string/ministring.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/string/ministring.o ../built/iprt/Linux/dependencies/common/string/ministring.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/string/ministring.o ../built/iprt/Linux/dependencies/common/string/ministring.depend: ../include/iprt/types.h
+../built/iprt/Linux/common/string/ministring.o ../built/iprt/Linux/dependencies/common/string/ministring.depend: ../include/iprt/cpp/ministring.h
+../built/iprt/Linux/common/string/ministring.o ../built/iprt/Linux/dependencies/common/string/ministring.depend: common/string/ministring.cpp
+../built/iprt/Linux/common/string/ministring.o ../built/iprt/Linux/dependencies/common/string/ministring.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/string/ministring.o ../built/iprt/Linux/dependencies/common/string/ministring.depend: ../include/iprt/string.h
+../built/iprt/Linux/common/string/ministring.o ../built/iprt/Linux/dependencies/common/string/ministring.depend: ../include/iprt/utf16.h
+../built/iprt/Linux/common/string/ministring.o ../built/iprt/Linux/dependencies/common/string/ministring.depend: ../include/iprt/latin1.h
+../built/iprt/Linux/common/string/ministring.o ../built/iprt/Linux/dependencies/common/string/ministring.depend: ../include/iprt/cpp/list.h
+../built/iprt/Linux/common/string/ministring.o ../built/iprt/Linux/dependencies/common/string/ministring.depend: ../include/iprt/cpp/meta.h

@@ -1,0 +1,1 @@
+../built/xpcom/Linux/nsprpub/pr/src/malloc/prmalloc.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/malloc/prmalloc.depend: nsprpub/pr/src/malloc/prmalloc.c

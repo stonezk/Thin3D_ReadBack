@@ -1,0 +1,12 @@
+../built/crutil/Linux/timer.o ../built/crutil/Linux/dependencies/timer.depend: ../include/iprt/assert.h
+../built/crutil/Linux/timer.o ../built/crutil/Linux/dependencies/timer.depend: ../include/iprt/stdarg.h
+../built/crutil/Linux/timer.o ../built/crutil/Linux/dependencies/timer.depend: ../include/cr_timer.h
+../built/crutil/Linux/timer.o ../built/crutil/Linux/dependencies/timer.depend: ../include/iprt/stdint.h
+../built/crutil/Linux/timer.o ../built/crutil/Linux/dependencies/timer.depend: timer.c
+../built/crutil/Linux/timer.o ../built/crutil/Linux/dependencies/timer.depend: ../include/iprt/cdefs.h
+../built/crutil/Linux/timer.o ../built/crutil/Linux/dependencies/timer.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/crutil/Linux/timer.o ../built/crutil/Linux/dependencies/timer.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/crutil/Linux/timer.o ../built/crutil/Linux/dependencies/timer.depend: ../include/cr_error.h
+../built/crutil/Linux/timer.o ../built/crutil/Linux/dependencies/timer.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/crutil/Linux/timer.o ../built/crutil/Linux/dependencies/timer.depend: ../include/cr_mem.h
+../built/crutil/Linux/timer.o ../built/crutil/Linux/dependencies/timer.depend: ../include/iprt/types.h

@@ -1,0 +1,6 @@
+../built/xpcom/Linux/xpcom/glue/nsDebug.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsDebug.depend: xpcom/glue/nsISupportsUtils.h
+../built/xpcom/Linux/xpcom/glue/nsDebug.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsDebug.depend: xpcom/glue/nsDebug.h
+../built/xpcom/Linux/xpcom/glue/nsDebug.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsDebug.depend: xpcom/glue/nsCOMPtr.h
+../built/xpcom/Linux/xpcom/glue/nsDebug.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsDebug.depend: xpcom/glue/nsISupportsImpl.h
+../built/xpcom/Linux/xpcom/glue/nsDebug.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsDebug.depend: xpcom/glue/nsTraceRefcnt.h
+../built/xpcom/Linux/xpcom/glue/nsDebug.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsDebug.depend: xpcom/glue/nsDebug.cpp

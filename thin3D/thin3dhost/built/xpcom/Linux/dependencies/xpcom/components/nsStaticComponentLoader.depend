@@ -1,0 +1,3 @@
+../built/xpcom/Linux/xpcom/components/nsStaticComponentLoader.o ../built/xpcom/Linux/dependencies/xpcom/components/nsStaticComponentLoader.depend: xpcom/components/nsModule.h
+../built/xpcom/Linux/xpcom/components/nsStaticComponentLoader.o ../built/xpcom/Linux/dependencies/xpcom/components/nsStaticComponentLoader.depend: xpcom/components/nsStaticComponentLoader.cpp
+../built/xpcom/Linux/xpcom/components/nsStaticComponentLoader.o ../built/xpcom/Linux/dependencies/xpcom/components/nsStaticComponentLoader.depend: xpcom/components/nsStaticComponent.h

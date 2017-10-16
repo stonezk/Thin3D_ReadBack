@@ -1,0 +1,3 @@
+../built/xpcom/Linux/xpcom/threads/nsEventQueueService.o ../built/xpcom/Linux/dependencies/xpcom/threads/nsEventQueueService.depend: xpcom/threads/nsEventQueueService.cpp
+../built/xpcom/Linux/xpcom/threads/nsEventQueueService.o ../built/xpcom/Linux/dependencies/xpcom/threads/nsEventQueueService.depend: xpcom/threads/nsEventQueueService.h
+../built/xpcom/Linux/xpcom/threads/nsEventQueueService.o ../built/xpcom/Linux/dependencies/xpcom/threads/nsEventQueueService.depend: xpcom/threads/nsPIEventQueueChain.h

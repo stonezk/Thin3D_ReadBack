@@ -1,0 +1,13 @@
+../built/iprt/Linux/common/log/tracedefault.o ../built/iprt/Linux/dependencies/common/log/tracedefault.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/log/tracedefault.o ../built/iprt/Linux/dependencies/common/log/tracedefault.depend: ../include/iprt/err.h
+../built/iprt/Linux/common/log/tracedefault.o ../built/iprt/Linux/dependencies/common/log/tracedefault.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/log/tracedefault.o ../built/iprt/Linux/dependencies/common/log/tracedefault.depend: ../include/iprt/trace.h
+../built/iprt/Linux/common/log/tracedefault.o ../built/iprt/Linux/dependencies/common/log/tracedefault.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/log/tracedefault.o ../built/iprt/Linux/dependencies/common/log/tracedefault.depend: ../include/iprt/asm.h
+../built/iprt/Linux/common/log/tracedefault.o ../built/iprt/Linux/dependencies/common/log/tracedefault.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/log/tracedefault.o ../built/iprt/Linux/dependencies/common/log/tracedefault.depend: common/log/tracedefault.cpp
+../built/iprt/Linux/common/log/tracedefault.o ../built/iprt/Linux/dependencies/common/log/tracedefault.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/log/tracedefault.o ../built/iprt/Linux/dependencies/common/log/tracedefault.depend: ../include/iprt/thread.h
+../built/iprt/Linux/common/log/tracedefault.o ../built/iprt/Linux/dependencies/common/log/tracedefault.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/log/tracedefault.o ../built/iprt/Linux/dependencies/common/log/tracedefault.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/log/tracedefault.o ../built/iprt/Linux/dependencies/common/log/tracedefault.depend: ../include/iprt/types.h

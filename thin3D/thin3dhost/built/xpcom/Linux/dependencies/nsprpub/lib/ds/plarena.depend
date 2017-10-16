@@ -1,0 +1,3 @@
+../built/xpcom/Linux/nsprpub/lib/ds/plarena.o ../built/xpcom/Linux/dependencies/nsprpub/lib/ds/plarena.depend: nsprpub/lib/ds/plarena.c
+../built/xpcom/Linux/nsprpub/lib/ds/plarena.o ../built/xpcom/Linux/dependencies/nsprpub/lib/ds/plarena.depend: nsprpub/lib/ds/plarena.h
+../built/xpcom/Linux/nsprpub/lib/ds/plarena.o ../built/xpcom/Linux/dependencies/nsprpub/lib/ds/plarena.depend: nsprpub/lib/ds/plarenas.h

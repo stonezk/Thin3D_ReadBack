@@ -1,0 +1,16 @@
+../built/iprt/Linux/common/string/strspace.o ../built/iprt/Linux/dependencies/common/string/strspace.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/string/strspace.o ../built/iprt/Linux/dependencies/common/string/strspace.depend: common/string/strspace.cpp
+../built/iprt/Linux/common/string/strspace.o ../built/iprt/Linux/dependencies/common/string/strspace.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/string/strspace.o ../built/iprt/Linux/dependencies/common/string/strspace.depend: common/string/../table/avl_Get.cpp.h
+../built/iprt/Linux/common/string/strspace.o ../built/iprt/Linux/dependencies/common/string/strspace.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/string/strspace.o ../built/iprt/Linux/dependencies/common/string/strspace.depend: common/string/../table/avl_Destroy.cpp.h
+../built/iprt/Linux/common/string/strspace.o ../built/iprt/Linux/dependencies/common/string/strspace.depend: common/string/../table/avl_Base.cpp.h
+../built/iprt/Linux/common/string/strspace.o ../built/iprt/Linux/dependencies/common/string/strspace.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/string/strspace.o ../built/iprt/Linux/dependencies/common/string/strspace.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/string/strspace.o ../built/iprt/Linux/dependencies/common/string/strspace.depend: common/string/../table/avl_DoWithAll.cpp.h
+../built/iprt/Linux/common/string/strspace.o ../built/iprt/Linux/dependencies/common/string/strspace.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/string/strspace.o ../built/iprt/Linux/dependencies/common/string/strspace.depend: ../include/iprt/latin1.h
+../built/iprt/Linux/common/string/strspace.o ../built/iprt/Linux/dependencies/common/string/strspace.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/string/strspace.o ../built/iprt/Linux/dependencies/common/string/strspace.depend: ../include/iprt/string.h
+../built/iprt/Linux/common/string/strspace.o ../built/iprt/Linux/dependencies/common/string/strspace.depend: ../include/iprt/utf16.h
+../built/iprt/Linux/common/string/strspace.o ../built/iprt/Linux/dependencies/common/string/strspace.depend: ../include/iprt/types.h

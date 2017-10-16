@@ -1,0 +1,1 @@
+../built/xpcom/Linux/nsprpub/pr/src/pthreads/ptio.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/pthreads/ptio.depend: nsprpub/pr/src/pthreads/ptio.c

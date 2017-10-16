@@ -1,0 +1,9 @@
+../built/iprt/Linux/common/string/unidata-flags.o ../built/iprt/Linux/dependencies/common/string/unidata-flags.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/string/unidata-flags.o ../built/iprt/Linux/dependencies/common/string/unidata-flags.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/string/unidata-flags.o ../built/iprt/Linux/dependencies/common/string/unidata-flags.depend: ../include/iprt/uni.h
+../built/iprt/Linux/common/string/unidata-flags.o ../built/iprt/Linux/dependencies/common/string/unidata-flags.depend: common/string/unidata-flags.cpp
+../built/iprt/Linux/common/string/unidata-flags.o ../built/iprt/Linux/dependencies/common/string/unidata-flags.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/string/unidata-flags.o ../built/iprt/Linux/dependencies/common/string/unidata-flags.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/string/unidata-flags.o ../built/iprt/Linux/dependencies/common/string/unidata-flags.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/string/unidata-flags.o ../built/iprt/Linux/dependencies/common/string/unidata-flags.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/string/unidata-flags.o ../built/iprt/Linux/dependencies/common/string/unidata-flags.depend: ../include/iprt/types.h

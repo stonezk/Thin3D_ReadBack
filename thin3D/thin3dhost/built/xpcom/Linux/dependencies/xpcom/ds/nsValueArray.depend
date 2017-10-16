@@ -1,0 +1,4 @@
+../built/xpcom/Linux/xpcom/ds/nsValueArray.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsValueArray.depend: xpcom/ds/nsCRT.h
+../built/xpcom/Linux/xpcom/ds/nsValueArray.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsValueArray.depend: xpcom/ds/nsCppSharedAllocator.h
+../built/xpcom/Linux/xpcom/ds/nsValueArray.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsValueArray.depend: xpcom/ds/nsValueArray.cpp
+../built/xpcom/Linux/xpcom/ds/nsValueArray.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsValueArray.depend: xpcom/ds/nsValueArray.h

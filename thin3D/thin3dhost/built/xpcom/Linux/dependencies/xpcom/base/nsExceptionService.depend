@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/base/nsExceptionService.o ../built/xpcom/Linux/dependencies/xpcom/base/nsExceptionService.depend: xpcom/base/nsExceptionService.h
+../built/xpcom/Linux/xpcom/base/nsExceptionService.o ../built/xpcom/Linux/dependencies/xpcom/base/nsExceptionService.depend: xpcom/base/nsExceptionService.cpp

@@ -1,0 +1,1 @@
+../built/xpcom/Linux/nsprpub/pr/src/pthreads/ptmisc.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/pthreads/ptmisc.depend: nsprpub/pr/src/pthreads/ptmisc.c

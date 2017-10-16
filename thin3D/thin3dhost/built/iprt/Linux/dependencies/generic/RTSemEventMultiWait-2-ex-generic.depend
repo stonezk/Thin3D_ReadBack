@@ -1,0 +1,13 @@
+../built/iprt/Linux/generic/RTSemEventMultiWait-2-ex-generic.o ../built/iprt/Linux/dependencies/generic/RTSemEventMultiWait-2-ex-generic.depend: ../include/iprt/assert.h
+../built/iprt/Linux/generic/RTSemEventMultiWait-2-ex-generic.o ../built/iprt/Linux/dependencies/generic/RTSemEventMultiWait-2-ex-generic.depend: ../include/iprt/err.h
+../built/iprt/Linux/generic/RTSemEventMultiWait-2-ex-generic.o ../built/iprt/Linux/dependencies/generic/RTSemEventMultiWait-2-ex-generic.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/generic/RTSemEventMultiWait-2-ex-generic.o ../built/iprt/Linux/dependencies/generic/RTSemEventMultiWait-2-ex-generic.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/generic/RTSemEventMultiWait-2-ex-generic.o ../built/iprt/Linux/dependencies/generic/RTSemEventMultiWait-2-ex-generic.depend: generic/RTSemEventMultiWait-2-ex-generic.cpp
+../built/iprt/Linux/generic/RTSemEventMultiWait-2-ex-generic.o ../built/iprt/Linux/dependencies/generic/RTSemEventMultiWait-2-ex-generic.depend: ../include/iprt/lockvalidator.h
+../built/iprt/Linux/generic/RTSemEventMultiWait-2-ex-generic.o ../built/iprt/Linux/dependencies/generic/RTSemEventMultiWait-2-ex-generic.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/generic/RTSemEventMultiWait-2-ex-generic.o ../built/iprt/Linux/dependencies/generic/RTSemEventMultiWait-2-ex-generic.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/generic/RTSemEventMultiWait-2-ex-generic.o ../built/iprt/Linux/dependencies/generic/RTSemEventMultiWait-2-ex-generic.depend: ../include/iprt/semaphore.h
+../built/iprt/Linux/generic/RTSemEventMultiWait-2-ex-generic.o ../built/iprt/Linux/dependencies/generic/RTSemEventMultiWait-2-ex-generic.depend: ../include/iprt/thread.h
+../built/iprt/Linux/generic/RTSemEventMultiWait-2-ex-generic.o ../built/iprt/Linux/dependencies/generic/RTSemEventMultiWait-2-ex-generic.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/generic/RTSemEventMultiWait-2-ex-generic.o ../built/iprt/Linux/dependencies/generic/RTSemEventMultiWait-2-ex-generic.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/generic/RTSemEventMultiWait-2-ex-generic.o ../built/iprt/Linux/dependencies/generic/RTSemEventMultiWait-2-ex-generic.depend: ../include/iprt/types.h

@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/ds/nsQuickSort.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsQuickSort.depend: xpcom/ds/nsQuickSort.cpp
+../built/xpcom/Linux/xpcom/ds/nsQuickSort.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsQuickSort.depend: xpcom/ds/nsQuickSort.h

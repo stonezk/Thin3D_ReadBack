@@ -1,0 +1,1 @@
+../built/xpcom/Linux/xpcom/reflect/xptcall/src/md/unix/xptcinvoke_x86_64_linux.o ../built/xpcom/Linux/dependencies/xpcom/reflect/xptcall/src/md/unix/xptcinvoke_x86_64_linux.depend: xpcom/reflect/xptcall/src/md/unix/xptcinvoke_x86_64_linux.cpp

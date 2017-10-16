@@ -1,0 +1,1 @@
+../built/xpcom/Linux/nsprpub/pr/src/md/unix/uxwrap.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/md/unix/uxwrap.depend: nsprpub/pr/src/md/unix/uxwrap.c

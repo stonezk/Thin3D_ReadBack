@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/components/nsComponentManagerObsolete.o ../built/xpcom/Linux/dependencies/xpcom/components/nsComponentManagerObsolete.depend: xpcom/components/nsComponentManagerObsolete.h
+../built/xpcom/Linux/xpcom/components/nsComponentManagerObsolete.o ../built/xpcom/Linux/dependencies/xpcom/components/nsComponentManagerObsolete.depend: xpcom/components/nsComponentManagerObsolete.cpp

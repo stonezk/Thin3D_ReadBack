@@ -1,0 +1,10 @@
+../built/xpcom/Linux/xpcom/string/src/nsStringObsolete.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsStringObsolete.depend: ../include/iprt/stdarg.h
+../built/xpcom/Linux/xpcom/string/src/nsStringObsolete.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsStringObsolete.depend: ../include/iprt/mem.h
+../built/xpcom/Linux/xpcom/string/src/nsStringObsolete.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsStringObsolete.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/xpcom/Linux/xpcom/string/src/nsStringObsolete.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsStringObsolete.depend: xpcom/string/src/nsTStringObsolete.cpp
+../built/xpcom/Linux/xpcom/string/src/nsStringObsolete.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsStringObsolete.depend: ../include/iprt/stdint.h
+../built/xpcom/Linux/xpcom/string/src/nsStringObsolete.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsStringObsolete.depend: ../include/iprt/cdefs.h
+../built/xpcom/Linux/xpcom/string/src/nsStringObsolete.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsStringObsolete.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/xpcom/Linux/xpcom/string/src/nsStringObsolete.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsStringObsolete.depend: xpcom/string/src/nsStringObsolete.cpp
+../built/xpcom/Linux/xpcom/string/src/nsStringObsolete.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsStringObsolete.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/xpcom/Linux/xpcom/string/src/nsStringObsolete.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsStringObsolete.depend: ../include/iprt/types.h

@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/io/nsByteArrayInputStream.o ../built/xpcom/Linux/dependencies/xpcom/io/nsByteArrayInputStream.depend: xpcom/io/nsByteArrayInputStream.h
+../built/xpcom/Linux/xpcom/io/nsByteArrayInputStream.o ../built/xpcom/Linux/dependencies/xpcom/io/nsByteArrayInputStream.depend: xpcom/io/nsByteArrayInputStream.cpp

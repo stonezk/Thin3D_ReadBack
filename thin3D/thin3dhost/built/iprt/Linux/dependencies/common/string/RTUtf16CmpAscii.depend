@@ -1,0 +1,12 @@
+../built/iprt/Linux/common/string/RTUtf16CmpAscii.o ../built/iprt/Linux/dependencies/common/string/RTUtf16CmpAscii.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/string/RTUtf16CmpAscii.o ../built/iprt/Linux/dependencies/common/string/RTUtf16CmpAscii.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/string/RTUtf16CmpAscii.o ../built/iprt/Linux/dependencies/common/string/RTUtf16CmpAscii.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/string/RTUtf16CmpAscii.o ../built/iprt/Linux/dependencies/common/string/RTUtf16CmpAscii.depend: common/string/RTUtf16CmpAscii.cpp
+../built/iprt/Linux/common/string/RTUtf16CmpAscii.o ../built/iprt/Linux/dependencies/common/string/RTUtf16CmpAscii.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/string/RTUtf16CmpAscii.o ../built/iprt/Linux/dependencies/common/string/RTUtf16CmpAscii.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/string/RTUtf16CmpAscii.o ../built/iprt/Linux/dependencies/common/string/RTUtf16CmpAscii.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/string/RTUtf16CmpAscii.o ../built/iprt/Linux/dependencies/common/string/RTUtf16CmpAscii.depend: ../include/iprt/latin1.h
+../built/iprt/Linux/common/string/RTUtf16CmpAscii.o ../built/iprt/Linux/dependencies/common/string/RTUtf16CmpAscii.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/string/RTUtf16CmpAscii.o ../built/iprt/Linux/dependencies/common/string/RTUtf16CmpAscii.depend: ../include/iprt/string.h
+../built/iprt/Linux/common/string/RTUtf16CmpAscii.o ../built/iprt/Linux/dependencies/common/string/RTUtf16CmpAscii.depend: ../include/iprt/utf16.h
+../built/iprt/Linux/common/string/RTUtf16CmpAscii.o ../built/iprt/Linux/dependencies/common/string/RTUtf16CmpAscii.depend: ../include/iprt/types.h

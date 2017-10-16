@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/io/nsScriptableInputStream.o ../built/xpcom/Linux/dependencies/xpcom/io/nsScriptableInputStream.depend: xpcom/io/nsScriptableInputStream.cpp
+../built/xpcom/Linux/xpcom/io/nsScriptableInputStream.o ../built/xpcom/Linux/dependencies/xpcom/io/nsScriptableInputStream.depend: xpcom/io/nsScriptableInputStream.h

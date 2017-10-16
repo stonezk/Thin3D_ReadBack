@@ -1,0 +1,1 @@
+../built/xpcom/Linux/nsprpub/pr/src/md/unix/uxshm.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/md/unix/uxshm.depend: nsprpub/pr/src/md/unix/uxshm.c

@@ -1,0 +1,9 @@
+../built/xpcom/Linux/xpcom/io/nsLocalFileUnix.o ../built/xpcom/Linux/dependencies/xpcom/io/nsLocalFileUnix.depend: xpcom/io/nsLocalFileUnix.cpp
+../built/xpcom/Linux/xpcom/io/nsLocalFileUnix.o ../built/xpcom/Linux/dependencies/xpcom/io/nsLocalFileUnix.depend: xpcom/io/nsLocalFileOS2.h
+../built/xpcom/Linux/xpcom/io/nsLocalFileUnix.o ../built/xpcom/Linux/dependencies/xpcom/io/nsLocalFileUnix.depend: xpcom/io/nsLocalFileUnix.h
+../built/xpcom/Linux/xpcom/io/nsLocalFileUnix.o ../built/xpcom/Linux/dependencies/xpcom/io/nsLocalFileUnix.depend: xpcom/io/nsLocalFile.h
+../built/xpcom/Linux/xpcom/io/nsLocalFileUnix.o ../built/xpcom/Linux/dependencies/xpcom/io/nsLocalFileUnix.depend: xpcom/io/nsLocalFileOSX.h
+../built/xpcom/Linux/xpcom/io/nsLocalFileUnix.o ../built/xpcom/Linux/dependencies/xpcom/io/nsLocalFileUnix.depend: xpcom/io/nsLocalFileWin.h
+../built/xpcom/Linux/xpcom/io/nsLocalFileUnix.o ../built/xpcom/Linux/dependencies/xpcom/io/nsLocalFileUnix.depend: xpcom/io/nsDirectoryServiceDefs.h
+../built/xpcom/Linux/xpcom/io/nsLocalFileUnix.o ../built/xpcom/Linux/dependencies/xpcom/io/nsLocalFileUnix.depend: xpcom/io/nsLocalFileMac.h
+../built/xpcom/Linux/xpcom/io/nsLocalFileUnix.o ../built/xpcom/Linux/dependencies/xpcom/io/nsLocalFileUnix.depend: xpcom/io/nsNativeCharsetUtils.h

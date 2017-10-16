@@ -1,0 +1,7 @@
+../built/xpcom/Linux/xpcom/glue/nsIInterfaceRequestorUtils.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsIInterfaceRequestorUtils.depend: xpcom/glue/nsISupportsUtils.h
+../built/xpcom/Linux/xpcom/glue/nsIInterfaceRequestorUtils.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsIInterfaceRequestorUtils.depend: xpcom/glue/nsIInterfaceRequestorUtils.cpp
+../built/xpcom/Linux/xpcom/glue/nsIInterfaceRequestorUtils.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsIInterfaceRequestorUtils.depend: xpcom/glue/nsCOMPtr.h
+../built/xpcom/Linux/xpcom/glue/nsIInterfaceRequestorUtils.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsIInterfaceRequestorUtils.depend: xpcom/glue/nsISupportsImpl.h
+../built/xpcom/Linux/xpcom/glue/nsIInterfaceRequestorUtils.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsIInterfaceRequestorUtils.depend: xpcom/glue/nsTraceRefcnt.h
+../built/xpcom/Linux/xpcom/glue/nsIInterfaceRequestorUtils.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsIInterfaceRequestorUtils.depend: xpcom/glue/nsDebug.h
+../built/xpcom/Linux/xpcom/glue/nsIInterfaceRequestorUtils.o ../built/xpcom/Linux/dependencies/xpcom/glue/nsIInterfaceRequestorUtils.depend: xpcom/glue/nsIInterfaceRequestorUtils.h

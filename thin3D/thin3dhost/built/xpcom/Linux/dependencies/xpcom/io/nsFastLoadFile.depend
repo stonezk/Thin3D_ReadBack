@@ -1,0 +1,3 @@
+../built/xpcom/Linux/xpcom/io/nsFastLoadFile.o ../built/xpcom/Linux/dependencies/xpcom/io/nsFastLoadFile.depend: xpcom/io/nsBinaryStream.h
+../built/xpcom/Linux/xpcom/io/nsFastLoadFile.o ../built/xpcom/Linux/dependencies/xpcom/io/nsFastLoadFile.depend: xpcom/io/nsFastLoadFile.cpp
+../built/xpcom/Linux/xpcom/io/nsFastLoadFile.o ../built/xpcom/Linux/dependencies/xpcom/io/nsFastLoadFile.depend: xpcom/io/nsFastLoadFile.h

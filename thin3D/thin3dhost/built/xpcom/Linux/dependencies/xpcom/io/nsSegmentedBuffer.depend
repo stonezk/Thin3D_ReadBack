@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/io/nsSegmentedBuffer.o ../built/xpcom/Linux/dependencies/xpcom/io/nsSegmentedBuffer.depend: xpcom/io/nsSegmentedBuffer.h
+../built/xpcom/Linux/xpcom/io/nsSegmentedBuffer.o ../built/xpcom/Linux/dependencies/xpcom/io/nsSegmentedBuffer.depend: xpcom/io/nsSegmentedBuffer.cpp

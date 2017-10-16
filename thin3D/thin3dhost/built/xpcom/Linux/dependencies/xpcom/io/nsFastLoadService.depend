@@ -1,0 +1,6 @@
+../built/xpcom/Linux/xpcom/io/nsFastLoadService.o ../built/xpcom/Linux/dependencies/xpcom/io/nsFastLoadService.depend: xpcom/io/nsFastLoadService.h
+../built/xpcom/Linux/xpcom/io/nsFastLoadService.o ../built/xpcom/Linux/dependencies/xpcom/io/nsFastLoadService.depend: xpcom/io/nsBinaryStream.h
+../built/xpcom/Linux/xpcom/io/nsFastLoadService.o ../built/xpcom/Linux/dependencies/xpcom/io/nsFastLoadService.depend: xpcom/io/nsFastLoadPtr.h
+../built/xpcom/Linux/xpcom/io/nsFastLoadService.o ../built/xpcom/Linux/dependencies/xpcom/io/nsFastLoadService.depend: xpcom/io/nsFastLoadService.cpp
+../built/xpcom/Linux/xpcom/io/nsFastLoadService.o ../built/xpcom/Linux/dependencies/xpcom/io/nsFastLoadService.depend: xpcom/io/nsAppDirectoryServiceDefs.h
+../built/xpcom/Linux/xpcom/io/nsFastLoadService.o ../built/xpcom/Linux/dependencies/xpcom/io/nsFastLoadService.depend: xpcom/io/nsFastLoadFile.h

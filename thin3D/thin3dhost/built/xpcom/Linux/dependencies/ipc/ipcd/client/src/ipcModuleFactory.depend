@@ -1,0 +1,2 @@
+../built/xpcom/Linux/ipc/ipcd/client/src/ipcModuleFactory.o ../built/xpcom/Linux/dependencies/ipc/ipcd/client/src/ipcModuleFactory.depend: ipc/ipcd/client/src/ipcService.h
+../built/xpcom/Linux/ipc/ipcd/client/src/ipcModuleFactory.o ../built/xpcom/Linux/dependencies/ipc/ipcd/client/src/ipcModuleFactory.depend: ipc/ipcd/client/src/ipcModuleFactory.cpp

@@ -1,0 +1,11 @@
+../built/iprt/Linux/common/string/uni.o ../built/iprt/Linux/dependencies/common/string/uni.depend: ../include/iprt/alloc.h
+../built/iprt/Linux/common/string/uni.o ../built/iprt/Linux/dependencies/common/string/uni.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/string/uni.o ../built/iprt/Linux/dependencies/common/string/uni.depend: ../include/iprt/mem.h
+../built/iprt/Linux/common/string/uni.o ../built/iprt/Linux/dependencies/common/string/uni.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/string/uni.o ../built/iprt/Linux/dependencies/common/string/uni.depend: ../include/iprt/uni.h
+../built/iprt/Linux/common/string/uni.o ../built/iprt/Linux/dependencies/common/string/uni.depend: common/string/uni.cpp
+../built/iprt/Linux/common/string/uni.o ../built/iprt/Linux/dependencies/common/string/uni.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/string/uni.o ../built/iprt/Linux/dependencies/common/string/uni.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/string/uni.o ../built/iprt/Linux/dependencies/common/string/uni.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/string/uni.o ../built/iprt/Linux/dependencies/common/string/uni.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/string/uni.o ../built/iprt/Linux/dependencies/common/string/uni.depend: ../include/iprt/types.h

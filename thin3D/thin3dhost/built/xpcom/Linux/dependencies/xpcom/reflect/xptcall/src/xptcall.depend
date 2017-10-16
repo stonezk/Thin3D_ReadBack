@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/reflect/xptcall/src/xptcall.o ../built/xpcom/Linux/dependencies/xpcom/reflect/xptcall/src/xptcall.depend: xpcom/reflect/xptcall/src/xptcall.cpp
+../built/xpcom/Linux/xpcom/reflect/xptcall/src/xptcall.o ../built/xpcom/Linux/dependencies/xpcom/reflect/xptcall/src/xptcall.depend: xpcom/reflect/xptcall/src/xptcprivate.h

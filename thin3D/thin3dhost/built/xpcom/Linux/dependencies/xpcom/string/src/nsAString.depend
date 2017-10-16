@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/string/src/nsAString.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsAString.depend: xpcom/string/src/nsAString.cpp
+../built/xpcom/Linux/xpcom/string/src/nsAString.o ../built/xpcom/Linux/dependencies/xpcom/string/src/nsAString.depend: xpcom/string/src/nsTAString.cpp

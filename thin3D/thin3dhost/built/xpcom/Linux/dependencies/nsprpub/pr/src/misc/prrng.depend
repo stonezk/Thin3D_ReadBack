@@ -1,0 +1,1 @@
+../built/xpcom/Linux/nsprpub/pr/src/misc/prrng.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/misc/prrng.depend: nsprpub/pr/src/misc/prrng.c

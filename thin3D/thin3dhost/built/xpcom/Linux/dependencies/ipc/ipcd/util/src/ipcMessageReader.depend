@@ -1,0 +1,1 @@
+../built/xpcom/Linux/ipc/ipcd/util/src/ipcMessageReader.o ../built/xpcom/Linux/dependencies/ipc/ipcd/util/src/ipcMessageReader.depend: ipc/ipcd/util/src/ipcMessageReader.cpp

@@ -1,0 +1,4 @@
+../built/xpcom/Linux/xpcom/io/nsAppFileLocationProvider.o ../built/xpcom/Linux/dependencies/xpcom/io/nsAppFileLocationProvider.depend: xpcom/io/nsDirectoryServiceDefs.h
+../built/xpcom/Linux/xpcom/io/nsAppFileLocationProvider.o ../built/xpcom/Linux/dependencies/xpcom/io/nsAppFileLocationProvider.depend: xpcom/io/nsAppDirectoryServiceDefs.h
+../built/xpcom/Linux/xpcom/io/nsAppFileLocationProvider.o ../built/xpcom/Linux/dependencies/xpcom/io/nsAppFileLocationProvider.depend: xpcom/io/nsAppFileLocationProvider.cpp
+../built/xpcom/Linux/xpcom/io/nsAppFileLocationProvider.o ../built/xpcom/Linux/dependencies/xpcom/io/nsAppFileLocationProvider.depend: xpcom/io/nsAppFileLocationProvider.h

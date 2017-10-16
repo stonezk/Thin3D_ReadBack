@@ -1,0 +1,9 @@
+../built/xpcom/Linux/nsprpub/pr/src/misc/prdtoa.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/misc/prdtoa.depend: ../include/iprt/stdarg.h
+../built/xpcom/Linux/nsprpub/pr/src/misc/prdtoa.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/misc/prdtoa.depend: ../include/iprt/mem.h
+../built/xpcom/Linux/nsprpub/pr/src/misc/prdtoa.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/misc/prdtoa.depend: ../include/iprt/stdint.h
+../built/xpcom/Linux/nsprpub/pr/src/misc/prdtoa.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/misc/prdtoa.depend: ../include/iprt/cdefs.h
+../built/xpcom/Linux/nsprpub/pr/src/misc/prdtoa.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/misc/prdtoa.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/xpcom/Linux/nsprpub/pr/src/misc/prdtoa.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/misc/prdtoa.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/xpcom/Linux/nsprpub/pr/src/misc/prdtoa.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/misc/prdtoa.depend: nsprpub/pr/src/misc/prdtoa.c
+../built/xpcom/Linux/nsprpub/pr/src/misc/prdtoa.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/misc/prdtoa.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/xpcom/Linux/nsprpub/pr/src/misc/prdtoa.o ../built/xpcom/Linux/dependencies/nsprpub/pr/src/misc/prdtoa.depend: ../include/iprt/types.h

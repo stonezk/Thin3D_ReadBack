@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/proxy/src/nsProxyEventClass.o ../built/xpcom/Linux/dependencies/xpcom/proxy/src/nsProxyEventClass.depend: xpcom/proxy/src/nsProxyEventPrivate.h
+../built/xpcom/Linux/xpcom/proxy/src/nsProxyEventClass.o ../built/xpcom/Linux/dependencies/xpcom/proxy/src/nsProxyEventClass.depend: xpcom/proxy/src/nsProxyEventClass.cpp

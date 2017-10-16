@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/threads/nsProcessCommon.o ../built/xpcom/Linux/dependencies/xpcom/threads/nsProcessCommon.depend: xpcom/threads/nsProcessCommon.cpp
+../built/xpcom/Linux/xpcom/threads/nsProcessCommon.o ../built/xpcom/Linux/dependencies/xpcom/threads/nsProcessCommon.depend: xpcom/threads/nsProcess.h

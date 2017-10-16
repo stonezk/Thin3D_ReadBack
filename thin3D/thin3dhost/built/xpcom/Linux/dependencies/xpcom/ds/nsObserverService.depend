@@ -1,0 +1,5 @@
+../built/xpcom/Linux/xpcom/ds/nsObserverService.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsObserverService.depend: xpcom/ds/pldhash.h
+../built/xpcom/Linux/xpcom/ds/nsObserverService.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsObserverService.depend: xpcom/ds/nsObserverService.h
+../built/xpcom/Linux/xpcom/ds/nsObserverService.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsObserverService.depend: xpcom/ds/nsObserverService.cpp
+../built/xpcom/Linux/xpcom/ds/nsObserverService.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsObserverService.depend: xpcom/ds/nsObserverList.h
+../built/xpcom/Linux/xpcom/ds/nsObserverService.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsObserverService.depend: xpcom/ds/nsHashtable.h

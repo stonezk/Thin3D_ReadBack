@@ -1,0 +1,6 @@
+../built/xpcom/Linux/xpcom/ds/nsStringEnumerator.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsStringEnumerator.depend: xpcom/ds/nsCppSharedAllocator.h
+../built/xpcom/Linux/xpcom/ds/nsStringEnumerator.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsStringEnumerator.depend: xpcom/ds/nsSupportsPrimitives.h
+../built/xpcom/Linux/xpcom/ds/nsStringEnumerator.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsStringEnumerator.depend: xpcom/ds/nsStringEnumerator.h
+../built/xpcom/Linux/xpcom/ds/nsStringEnumerator.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsStringEnumerator.depend: xpcom/ds/nsCRT.h
+../built/xpcom/Linux/xpcom/ds/nsStringEnumerator.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsStringEnumerator.depend: xpcom/ds/nsStringEnumerator.cpp
+../built/xpcom/Linux/xpcom/ds/nsStringEnumerator.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsStringEnumerator.depend: xpcom/ds/nsVoidArray.h

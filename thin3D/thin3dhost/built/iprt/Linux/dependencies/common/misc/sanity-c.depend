@@ -1,0 +1,10 @@
+../built/iprt/Linux/common/misc/sanity-c.o ../built/iprt/Linux/dependencies/common/misc/sanity-c.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/misc/sanity-c.o ../built/iprt/Linux/dependencies/common/misc/sanity-c.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/misc/sanity-c.o ../built/iprt/Linux/dependencies/common/misc/sanity-c.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/misc/sanity-c.o ../built/iprt/Linux/dependencies/common/misc/sanity-c.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/misc/sanity-c.o ../built/iprt/Linux/dependencies/common/misc/sanity-c.depend: common/misc/sanity.h
+../built/iprt/Linux/common/misc/sanity-c.o ../built/iprt/Linux/dependencies/common/misc/sanity-c.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/misc/sanity-c.o ../built/iprt/Linux/dependencies/common/misc/sanity-c.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/misc/sanity-c.o ../built/iprt/Linux/dependencies/common/misc/sanity-c.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/misc/sanity-c.o ../built/iprt/Linux/dependencies/common/misc/sanity-c.depend: common/misc/sanity-c.c
+../built/iprt/Linux/common/misc/sanity-c.o ../built/iprt/Linux/dependencies/common/misc/sanity-c.depend: ../include/iprt/types.h

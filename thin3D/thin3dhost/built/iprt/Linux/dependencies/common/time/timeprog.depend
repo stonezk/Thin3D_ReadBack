@@ -1,0 +1,10 @@
+../built/iprt/Linux/common/time/timeprog.o ../built/iprt/Linux/dependencies/common/time/timeprog.depend: ../include/iprt/assert.h
+../built/iprt/Linux/common/time/timeprog.o ../built/iprt/Linux/dependencies/common/time/timeprog.depend: ../include/iprt/stdarg.h
+../built/iprt/Linux/common/time/timeprog.o ../built/iprt/Linux/dependencies/common/time/timeprog.depend: ../include/iprt/stdint.h
+../built/iprt/Linux/common/time/timeprog.o ../built/iprt/Linux/dependencies/common/time/timeprog.depend: ../include/iprt/cdefs.h
+../built/iprt/Linux/common/time/timeprog.o ../built/iprt/Linux/dependencies/common/time/timeprog.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/iprt/Linux/common/time/timeprog.o ../built/iprt/Linux/dependencies/common/time/timeprog.depend: common/time/timeprog.cpp
+../built/iprt/Linux/common/time/timeprog.o ../built/iprt/Linux/dependencies/common/time/timeprog.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/iprt/Linux/common/time/timeprog.o ../built/iprt/Linux/dependencies/common/time/timeprog.depend: ../include/iprt/time.h
+../built/iprt/Linux/common/time/timeprog.o ../built/iprt/Linux/dependencies/common/time/timeprog.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/iprt/Linux/common/time/timeprog.o ../built/iprt/Linux/dependencies/common/time/timeprog.depend: ../include/iprt/types.h

@@ -1,0 +1,9 @@
+../built/xpcom/Linux/ipc/ipcd/util/src/ipcMessageWriter.o ../built/xpcom/Linux/dependencies/ipc/ipcd/util/src/ipcMessageWriter.depend: ../include/iprt/stdarg.h
+../built/xpcom/Linux/ipc/ipcd/util/src/ipcMessageWriter.o ../built/xpcom/Linux/dependencies/ipc/ipcd/util/src/ipcMessageWriter.depend: ../include/iprt/mem.h
+../built/xpcom/Linux/ipc/ipcd/util/src/ipcMessageWriter.o ../built/xpcom/Linux/dependencies/ipc/ipcd/util/src/ipcMessageWriter.depend: ../include/iprt/stdint.h
+../built/xpcom/Linux/ipc/ipcd/util/src/ipcMessageWriter.o ../built/xpcom/Linux/dependencies/ipc/ipcd/util/src/ipcMessageWriter.depend: ../include/iprt/cdefs.h
+../built/xpcom/Linux/ipc/ipcd/util/src/ipcMessageWriter.o ../built/xpcom/Linux/dependencies/ipc/ipcd/util/src/ipcMessageWriter.depend: ../include/iprt/nocrt/compiler/compiler.h
+../built/xpcom/Linux/ipc/ipcd/util/src/ipcMessageWriter.o ../built/xpcom/Linux/dependencies/ipc/ipcd/util/src/ipcMessageWriter.depend: ipc/ipcd/util/src/ipcMessageWriter.cpp
+../built/xpcom/Linux/ipc/ipcd/util/src/ipcMessageWriter.o ../built/xpcom/Linux/dependencies/ipc/ipcd/util/src/ipcMessageWriter.depend: ../include/iprt/nocrt/compiler/msc.h
+../built/xpcom/Linux/ipc/ipcd/util/src/ipcMessageWriter.o ../built/xpcom/Linux/dependencies/ipc/ipcd/util/src/ipcMessageWriter.depend: ../include/iprt/nocrt/compiler/gcc.h
+../built/xpcom/Linux/ipc/ipcd/util/src/ipcMessageWriter.o ../built/xpcom/Linux/dependencies/ipc/ipcd/util/src/ipcMessageWriter.depend: ../include/iprt/types.h

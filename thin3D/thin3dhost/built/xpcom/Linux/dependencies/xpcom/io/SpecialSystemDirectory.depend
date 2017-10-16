@@ -1,0 +1,2 @@
+../built/xpcom/Linux/xpcom/io/SpecialSystemDirectory.o ../built/xpcom/Linux/dependencies/xpcom/io/SpecialSystemDirectory.depend: xpcom/io/SpecialSystemDirectory.cpp
+../built/xpcom/Linux/xpcom/io/SpecialSystemDirectory.o ../built/xpcom/Linux/dependencies/xpcom/io/SpecialSystemDirectory.depend: xpcom/io/SpecialSystemDirectory.h

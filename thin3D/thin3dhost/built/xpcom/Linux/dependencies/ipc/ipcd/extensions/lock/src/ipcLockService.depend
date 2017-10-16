@@ -1,0 +1,3 @@
+../built/xpcom/Linux/ipc/ipcd/extensions/lock/src/ipcLockService.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/lock/src/ipcLockService.depend: ipc/ipcd/extensions/lock/src/ipcLockProtocol.h
+../built/xpcom/Linux/ipc/ipcd/extensions/lock/src/ipcLockService.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/lock/src/ipcLockService.depend: ipc/ipcd/extensions/lock/src/ipcLockService.cpp
+../built/xpcom/Linux/ipc/ipcd/extensions/lock/src/ipcLockService.o ../built/xpcom/Linux/dependencies/ipc/ipcd/extensions/lock/src/ipcLockService.depend: ipc/ipcd/extensions/lock/src/ipcLockService.h

@@ -1,0 +1,2 @@
+../built/xpcom/Linux/ipc/ipcd/client/src/ipcConnectionUnix.o ../built/xpcom/Linux/dependencies/ipc/ipcd/client/src/ipcConnectionUnix.depend: ipc/ipcd/client/src/ipcConnection.h
+../built/xpcom/Linux/ipc/ipcd/client/src/ipcConnectionUnix.o ../built/xpcom/Linux/dependencies/ipc/ipcd/client/src/ipcConnectionUnix.depend: ipc/ipcd/client/src/ipcConnectionUnix.cpp

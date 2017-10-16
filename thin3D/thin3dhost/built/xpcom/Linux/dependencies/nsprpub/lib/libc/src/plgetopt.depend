@@ -1,0 +1,1 @@
+../built/xpcom/Linux/nsprpub/lib/libc/src/plgetopt.o ../built/xpcom/Linux/dependencies/nsprpub/lib/libc/src/plgetopt.depend: nsprpub/lib/libc/src/plgetopt.c

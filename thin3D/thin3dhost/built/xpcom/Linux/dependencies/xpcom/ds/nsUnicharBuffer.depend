@@ -1,0 +1,5 @@
+../built/xpcom/Linux/xpcom/ds/nsUnicharBuffer.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsUnicharBuffer.depend: xpcom/ds/nsCRT.h
+../built/xpcom/Linux/xpcom/ds/nsUnicharBuffer.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsUnicharBuffer.depend: xpcom/ds/nsUnicharBuffer.h
+../built/xpcom/Linux/xpcom/ds/nsUnicharBuffer.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsUnicharBuffer.depend: xpcom/ds/nsCppSharedAllocator.h
+../built/xpcom/Linux/xpcom/ds/nsUnicharBuffer.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsUnicharBuffer.depend: xpcom/ds/nsUnicharBuffer.cpp
+../built/xpcom/Linux/xpcom/ds/nsUnicharBuffer.o ../built/xpcom/Linux/dependencies/xpcom/ds/nsUnicharBuffer.depend: xpcom/ds/nsIUnicharBuffer.h
